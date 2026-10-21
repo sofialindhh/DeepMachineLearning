@@ -1,0 +1,1379 @@
+dataset,test_index,y_true,knn_pred,tabpfn_pred,tabicl_pred
+Blood Transfusion,49,No,No,No,No
+Blood Transfusion,629,Yes,No,No,No
+Blood Transfusion,224,No,No,No,No
+Blood Transfusion,95,No,No,No,No
+Blood Transfusion,113,No,No,No,No
+Blood Transfusion,582,Yes,No,No,No
+Blood Transfusion,413,No,No,No,No
+Blood Transfusion,93,No,No,No,No
+Blood Transfusion,597,No,No,No,No
+Blood Transfusion,434,Yes,Yes,Yes,Yes
+Blood Transfusion,483,No,No,No,No
+Blood Transfusion,19,No,No,No,No
+Blood Transfusion,549,Yes,Yes,No,Yes
+Blood Transfusion,141,No,No,No,No
+Blood Transfusion,293,No,No,No,No
+Blood Transfusion,250,Yes,No,No,No
+Blood Transfusion,56,No,No,No,No
+Blood Transfusion,130,No,No,No,No
+Blood Transfusion,586,No,No,No,No
+Blood Transfusion,574,No,No,No,No
+Blood Transfusion,674,Yes,No,No,No
+Blood Transfusion,255,No,No,No,No
+Blood Transfusion,605,Yes,No,No,No
+Blood Transfusion,168,No,No,No,No
+Blood Transfusion,568,Yes,No,Yes,Yes
+Blood Transfusion,416,No,No,No,No
+Blood Transfusion,389,No,No,No,No
+Blood Transfusion,588,No,No,No,No
+Blood Transfusion,707,No,No,No,No
+Blood Transfusion,85,No,No,No,No
+Blood Transfusion,333,No,No,No,No
+Blood Transfusion,729,No,Yes,No,No
+Blood Transfusion,703,No,Yes,No,No
+Blood Transfusion,70,No,No,No,No
+Blood Transfusion,406,Yes,No,No,No
+Blood Transfusion,62,No,No,No,No
+Blood Transfusion,653,No,No,No,No
+Blood Transfusion,363,No,No,No,No
+Blood Transfusion,542,No,Yes,Yes,Yes
+Blood Transfusion,669,No,No,No,No
+Blood Transfusion,670,No,No,No,No
+Blood Transfusion,206,No,No,No,No
+Blood Transfusion,236,No,No,No,No
+Blood Transfusion,473,No,No,No,No
+Blood Transfusion,636,No,No,No,No
+Blood Transfusion,296,Yes,Yes,No,No
+Blood Transfusion,309,No,No,No,No
+Blood Transfusion,373,No,Yes,Yes,Yes
+Blood Transfusion,480,No,No,No,No
+Blood Transfusion,180,No,No,No,No
+Blood Transfusion,101,No,No,No,No
+Blood Transfusion,51,No,No,No,No
+Blood Transfusion,150,No,No,No,No
+Blood Transfusion,685,No,Yes,Yes,Yes
+Blood Transfusion,407,Yes,No,No,No
+Blood Transfusion,4,No,No,No,No
+Blood Transfusion,622,No,No,No,No
+Blood Transfusion,734,No,No,No,No
+Blood Transfusion,453,No,No,No,No
+Blood Transfusion,220,No,No,No,No
+Blood Transfusion,230,No,No,No,No
+Blood Transfusion,440,Yes,Yes,No,No
+Blood Transfusion,510,Yes,No,No,No
+Blood Transfusion,708,No,No,No,No
+Blood Transfusion,97,No,No,No,No
+Blood Transfusion,514,No,No,No,No
+Blood Transfusion,69,No,No,No,No
+Blood Transfusion,105,No,No,No,No
+Blood Transfusion,347,Yes,No,No,No
+Blood Transfusion,599,No,No,No,No
+Blood Transfusion,443,Yes,No,No,No
+Blood Transfusion,740,No,Yes,Yes,Yes
+Blood Transfusion,385,Yes,No,No,Yes
+Blood Transfusion,12,No,No,No,No
+Blood Transfusion,444,Yes,No,Yes,Yes
+Blood Transfusion,388,No,No,No,No
+Blood Transfusion,156,No,No,No,No
+Blood Transfusion,414,Yes,No,No,No
+Blood Transfusion,543,No,No,No,No
+Blood Transfusion,305,No,No,No,No
+Blood Transfusion,99,No,No,No,No
+Blood Transfusion,498,No,No,No,No
+Blood Transfusion,381,Yes,No,No,No
+Blood Transfusion,422,No,No,No,No
+Blood Transfusion,624,Yes,Yes,Yes,Yes
+Blood Transfusion,352,No,Yes,Yes,Yes
+Blood Transfusion,365,No,No,No,No
+Blood Transfusion,342,No,Yes,No,No
+Blood Transfusion,242,Yes,No,No,No
+Blood Transfusion,339,Yes,No,No,No
+Blood Transfusion,136,Yes,Yes,Yes,Yes
+Blood Transfusion,27,No,No,No,No
+Blood Transfusion,200,No,No,No,No
+Blood Transfusion,129,No,No,No,No
+Blood Transfusion,550,No,No,No,No
+Blood Transfusion,257,No,No,No,No
+Blood Transfusion,33,No,No,No,No
+Blood Transfusion,194,Yes,No,No,No
+Blood Transfusion,404,No,No,No,No
+Blood Transfusion,386,Yes,No,No,No
+Blood Transfusion,59,No,No,No,No
+Blood Transfusion,465,No,No,No,No
+Blood Transfusion,184,No,No,No,No
+Blood Transfusion,48,No,Yes,Yes,Yes
+Blood Transfusion,376,Yes,No,No,No
+Blood Transfusion,179,No,No,No,No
+Blood Transfusion,637,Yes,Yes,Yes,Yes
+Blood Transfusion,715,No,No,No,No
+Blood Transfusion,322,No,No,No,No
+Blood Transfusion,400,No,No,No,No
+Blood Transfusion,319,No,No,No,No
+Blood Transfusion,496,Yes,No,No,No
+Blood Transfusion,468,No,No,No,No
+Blood Transfusion,733,No,Yes,Yes,Yes
+Blood Transfusion,211,No,No,No,No
+Blood Transfusion,456,No,No,No,No
+Blood Transfusion,548,No,No,No,No
+Blood Transfusion,350,Yes,Yes,Yes,Yes
+Blood Transfusion,329,Yes,Yes,No,No
+Blood Transfusion,346,No,No,No,No
+Blood Transfusion,167,Yes,No,Yes,Yes
+Blood Transfusion,656,No,No,No,No
+Blood Transfusion,559,Yes,Yes,Yes,Yes
+Blood Transfusion,560,No,No,No,No
+Blood Transfusion,316,Yes,No,No,No
+Blood Transfusion,529,No,No,No,No
+Blood Transfusion,324,No,No,No,No
+Blood Transfusion,0,No,No,No,No
+Blood Transfusion,541,Yes,No,No,No
+Blood Transfusion,10,No,No,No,No
+Blood Transfusion,215,No,No,No,No
+Blood Transfusion,512,No,No,No,No
+Blood Transfusion,464,No,Yes,Yes,Yes
+Blood Transfusion,114,No,No,No,No
+Blood Transfusion,29,No,No,No,No
+Blood Transfusion,553,Yes,Yes,No,No
+Blood Transfusion,523,No,No,No,No
+Blood Transfusion,281,Yes,Yes,Yes,Yes
+Blood Transfusion,442,No,No,No,No
+Blood Transfusion,214,No,No,No,No
+Blood Transfusion,345,Yes,No,No,No
+Blood Transfusion,671,No,No,No,No
+Blood Transfusion,426,No,No,No,No
+Blood Transfusion,736,No,No,No,No
+Blood Transfusion,695,No,Yes,No,No
+Blood Transfusion,475,No,No,No,No
+Blood Transfusion,561,No,No,No,No
+Blood Transfusion,297,Yes,Yes,Yes,Yes
+Blood Transfusion,424,Yes,No,No,No
+Blood Transfusion,673,No,No,No,No
+Blood Transfusion,371,No,No,No,No
+Blood Transfusion,474,No,No,No,No
+Blood Transfusion,578,Yes,No,No,No
+Blood Transfusion,506,Yes,No,No,No
+Blood Transfusion,109,No,No,No,No
+Blood Transfusion,583,No,No,No,No
+Blood Transfusion,320,No,No,No,No
+Blood Transfusion,527,No,Yes,No,No
+Blood Transfusion,75,No,No,No,No
+Blood Transfusion,613,No,No,No,No
+Blood Transfusion,275,No,No,No,No
+Blood Transfusion,243,No,Yes,Yes,Yes
+Blood Transfusion,392,No,Yes,Yes,Yes
+Blood Transfusion,418,No,No,No,No
+Blood Transfusion,632,No,Yes,Yes,No
+Blood Transfusion,174,No,No,No,No
+Blood Transfusion,148,No,No,No,No
+Blood Transfusion,686,No,No,No,No
+Blood Transfusion,341,No,No,No,No
+Blood Transfusion,280,No,No,No,No
+Blood Transfusion,515,No,No,No,No
+Blood Transfusion,432,No,No,No,No
+Blood Transfusion,600,Yes,No,Yes,Yes
+Blood Transfusion,592,Yes,No,No,No
+Blood Transfusion,338,Yes,No,No,No
+Blood Transfusion,692,Yes,Yes,Yes,Yes
+Blood Transfusion,222,No,Yes,No,No
+Blood Transfusion,137,No,No,No,No
+Blood Transfusion,108,No,No,No,No
+Blood Transfusion,43,No,No,No,No
+Blood Transfusion,251,No,No,No,No
+Blood Transfusion,490,No,No,No,No
+Blood Transfusion,709,Yes,No,No,No
+Blood Transfusion,638,Yes,No,No,No
+Blood Transfusion,655,No,No,No,No
+Blood Transfusion,248,No,No,No,No
+Blood Transfusion,369,No,No,No,No
+Blood Transfusion,37,No,No,No,No
+Blood Transfusion,575,Yes,No,No,No
+Blood Transfusion,596,No,No,No,Yes
+Blood Transfusion,410,Yes,Yes,No,No
+Blood Transfusion,720,Yes,No,No,No
+Blood Transfusion,368,No,No,No,No
+Blood Transfusion,82,No,No,No,No
+Blood Transfusion,157,No,No,No,No
+Blood Transfusion,476,No,No,No,No
+Blood Transfusion,479,No,No,No,No
+Blood Transfusion,728,No,Yes,Yes,Yes
+Blood Transfusion,22,No,No,No,No
+Blood Transfusion,530,No,No,No,No
+Blood Transfusion,531,Yes,No,No,No
+Blood Transfusion,716,No,No,No,No
+Blood Transfusion,237,No,No,No,No
+Blood Transfusion,627,No,No,No,No
+Blood Transfusion,332,No,No,No,No
+Blood Transfusion,154,No,Yes,No,No
+Blood Transfusion,183,No,No,No,No
+Blood Transfusion,696,No,No,No,No
+Blood Transfusion,569,No,No,No,No
+Blood Transfusion,279,No,No,No,No
+Blood Transfusion,357,No,No,No,No
+Blood Transfusion,83,No,No,No,No
+Blood Transfusion,178,No,No,No,No
+Blood Transfusion,120,Yes,No,No,No
+Blood Transfusion,499,No,Yes,Yes,Yes
+Blood Transfusion,631,No,Yes,No,No
+Blood Transfusion,356,No,No,No,No
+Blood Transfusion,635,No,No,No,No
+Blood Transfusion,57,No,No,No,No
+Blood Transfusion,90,No,No,No,No
+Blood Transfusion,151,Yes,Yes,Yes,Yes
+Blood Transfusion,349,No,No,No,No
+Blood Transfusion,225,No,No,No,No
+Blood Transfusion,50,Yes,Yes,Yes,Yes
+Blood Transfusion,509,No,No,No,No
+Diabetes,606,No,No,Yes,Yes
+Diabetes,621,No,No,No,No
+Diabetes,672,Yes,No,No,No
+Diabetes,183,Yes,No,Yes,Yes
+Diabetes,516,No,No,No,No
+Diabetes,75,No,Yes,No,No
+Diabetes,586,Yes,Yes,Yes,Yes
+Diabetes,502,No,Yes,Yes,Yes
+Diabetes,685,No,Yes,Yes,Yes
+Diabetes,90,No,No,No,No
+Diabetes,305,No,No,No,No
+Diabetes,764,No,No,No,No
+Diabetes,587,Yes,Yes,Yes,Yes
+Diabetes,404,No,No,No,No
+Diabetes,372,Yes,Yes,Yes,Yes
+Diabetes,271,No,No,No,No
+Diabetes,521,No,Yes,No,No
+Diabetes,633,No,No,Yes,Yes
+Diabetes,390,Yes,No,No,No
+Diabetes,44,No,No,No,No
+Diabetes,124,No,No,No,No
+Diabetes,199,Yes,Yes,Yes,Yes
+Diabetes,403,Yes,No,No,No
+Diabetes,203,No,No,No,No
+Diabetes,231,No,No,No,No
+Diabetes,490,No,No,No,No
+Diabetes,405,No,Yes,No,No
+Diabetes,406,No,No,No,No
+Diabetes,520,Yes,Yes,Yes,Yes
+Diabetes,261,Yes,Yes,Yes,Yes
+Diabetes,282,Yes,Yes,Yes,Yes
+Diabetes,265,No,No,No,No
+Diabetes,643,No,No,No,No
+Diabetes,744,No,No,No,No
+Diabetes,351,Yes,Yes,No,No
+Diabetes,273,Yes,No,No,No
+Diabetes,689,No,No,No,No
+Diabetes,669,No,No,No,No
+Diabetes,228,No,No,No,No
+Diabetes,709,No,No,No,No
+Diabetes,310,No,No,No,No
+Diabetes,499,No,No,No,No
+Diabetes,266,No,No,Yes,Yes
+Diabetes,148,No,No,No,No
+Diabetes,725,Yes,No,No,No
+Diabetes,589,Yes,No,No,No
+Diabetes,500,Yes,Yes,Yes,Yes
+Diabetes,43,Yes,No,No,No
+Diabetes,596,No,No,No,No
+Diabetes,565,No,No,No,No
+Diabetes,423,No,No,No,No
+Diabetes,713,No,No,No,No
+Diabetes,34,No,Yes,No,No
+Diabetes,650,No,No,No,No
+Diabetes,13,No,Yes,No,No
+Diabetes,57,No,No,No,No
+Diabetes,443,No,No,No,No
+Diabetes,154,No,No,No,No
+Diabetes,551,No,Yes,No,No
+Diabetes,698,No,No,No,No
+Diabetes,147,No,No,No,No
+Diabetes,61,No,No,No,No
+Diabetes,60,Yes,No,Yes,Yes
+Diabetes,564,No,No,No,No
+Diabetes,204,No,Yes,Yes,Yes
+Diabetes,427,Yes,Yes,Yes,Yes
+Diabetes,281,Yes,Yes,Yes,Yes
+Diabetes,9,No,No,No,Yes
+Diabetes,74,No,No,No,No
+Diabetes,295,No,No,No,No
+Diabetes,200,No,No,No,No
+Diabetes,388,No,No,No,No
+Diabetes,283,Yes,Yes,Yes,Yes
+Diabetes,247,No,No,No,No
+Diabetes,742,Yes,No,No,No
+Diabetes,314,No,No,No,No
+Diabetes,317,No,No,No,No
+Diabetes,268,No,No,No,No
+Diabetes,138,Yes,Yes,Yes,Yes
+Diabetes,239,Yes,Yes,Yes,Yes
+Diabetes,575,No,No,No,No
+Diabetes,139,No,No,No,No
+Diabetes,446,No,No,No,No
+Diabetes,106,No,No,No,No
+Diabetes,535,Yes,Yes,Yes,Yes
+Diabetes,705,No,No,No,No
+Diabetes,724,No,No,No,No
+Diabetes,193,No,No,No,No
+Diabetes,562,No,No,No,No
+Diabetes,469,Yes,No,Yes,Yes
+Diabetes,714,Yes,Yes,Yes,Yes
+Diabetes,249,No,No,No,No
+Diabetes,189,No,Yes,Yes,Yes
+Diabetes,208,Yes,Yes,Yes,Yes
+Diabetes,209,Yes,Yes,Yes,Yes
+Diabetes,262,No,No,No,No
+Diabetes,66,No,No,No,No
+Diabetes,40,No,No,No,No
+Diabetes,77,No,No,No,No
+Diabetes,377,No,No,Yes,Yes
+Diabetes,677,No,No,No,No
+Diabetes,703,No,No,No,No
+Diabetes,585,Yes,No,No,No
+Diabetes,568,Yes,No,No,No
+Diabetes,576,No,Yes,No,No
+Diabetes,297,Yes,No,Yes,Yes
+Diabetes,663,No,No,No,No
+Diabetes,547,No,No,No,No
+Diabetes,737,No,No,No,No
+Diabetes,129,No,No,Yes,Yes
+Diabetes,421,Yes,No,No,No
+Diabetes,696,No,No,No,No
+Diabetes,729,Yes,No,No,No
+Diabetes,259,No,No,No,No
+Diabetes,517,No,No,No,No
+Diabetes,472,Yes,Yes,Yes,Yes
+Diabetes,50,No,No,No,No
+Diabetes,526,Yes,No,No,No
+Diabetes,468,No,No,No,No
+Diabetes,452,No,No,Yes,Yes
+Diabetes,395,Yes,Yes,Yes,Yes
+Diabetes,332,No,No,No,No
+Diabetes,543,Yes,Yes,No,No
+Diabetes,277,Yes,No,Yes,Yes
+Diabetes,353,Yes,Yes,Yes,Yes
+Diabetes,343,Yes,Yes,Yes,Yes
+Diabetes,563,Yes,Yes,Yes,Yes
+Diabetes,292,Yes,Yes,No,No
+Diabetes,387,No,No,No,No
+Diabetes,289,No,Yes,Yes,Yes
+Diabetes,755,Yes,Yes,Yes,Yes
+Diabetes,68,No,No,No,No
+Diabetes,682,Yes,No,No,No
+Diabetes,708,Yes,No,No,No
+Diabetes,304,No,No,No,No
+Diabetes,475,Yes,No,No,No
+Diabetes,286,Yes,No,Yes,Yes
+Diabetes,226,Yes,Yes,No,No
+Diabetes,135,No,No,No,No
+Diabetes,316,Yes,Yes,Yes,Yes
+Diabetes,637,No,No,No,No
+Diabetes,382,Yes,Yes,Yes,Yes
+Diabetes,437,No,No,No,No
+Diabetes,301,Yes,Yes,Yes,Yes
+Diabetes,721,Yes,Yes,Yes,Yes
+Diabetes,592,No,No,Yes,Yes
+Diabetes,412,No,Yes,No,No
+Diabetes,410,Yes,No,No,No
+Diabetes,687,No,No,No,No
+Diabetes,417,No,No,No,No
+Diabetes,340,Yes,No,No,No
+Diabetes,171,Yes,No,No,No
+Diabetes,131,Yes,Yes,Yes,Yes
+Diabetes,278,No,No,No,No
+Diabetes,572,No,No,No,No
+Diabetes,49,No,Yes,Yes,Yes
+Diabetes,640,Yes,Yes,Yes,Yes
+Diabetes,659,Yes,No,No,No
+Diabetes,485,Yes,Yes,Yes,Yes
+Diabetes,718,No,No,No,No
+Diabetes,486,Yes,No,Yes,Yes
+Diabetes,62,No,Yes,No,No
+Diabetes,567,No,No,No,No
+Diabetes,89,No,No,No,No
+Diabetes,149,Yes,Yes,Yes,Yes
+Diabetes,550,No,No,No,No
+Diabetes,275,No,No,No,No
+Diabetes,221,No,No,No,No
+Diabetes,180,No,No,No,No
+Diabetes,684,Yes,Yes,No,No
+Diabetes,518,No,No,No,No
+Diabetes,186,No,No,No,No
+Diabetes,143,No,Yes,No,No
+Diabetes,539,No,No,No,No
+Diabetes,657,No,No,No,No
+Diabetes,111,No,No,No,No
+Diabetes,140,No,No,No,No
+Diabetes,73,Yes,No,No,No
+Diabetes,584,Yes,Yes,No,No
+Diabetes,736,Yes,No,No,No
+Diabetes,602,Yes,Yes,Yes,Yes
+Diabetes,504,Yes,Yes,Yes,Yes
+Diabetes,428,No,No,No,No
+Diabetes,451,Yes,No,No,No
+Diabetes,197,No,No,No,No
+Diabetes,398,No,Yes,Yes,Yes
+Diabetes,614,No,No,No,No
+Diabetes,597,No,No,No,No
+Diabetes,109,Yes,Yes,Yes,Yes
+Diabetes,463,Yes,No,No,No
+Diabetes,0,No,No,No,No
+Diabetes,82,No,No,No,No
+Diabetes,366,No,No,No,No
+Diabetes,342,No,No,No,No
+Diabetes,133,Yes,No,Yes,Yes
+Diabetes,95,No,No,Yes,Yes
+Diabetes,450,Yes,No,No,No
+Diabetes,93,Yes,No,Yes,No
+Diabetes,740,No,No,No,No
+Diabetes,607,No,No,No,No
+Diabetes,365,No,No,No,No
+Diabetes,105,No,No,No,No
+Diabetes,712,No,No,Yes,Yes
+Diabetes,184,Yes,No,Yes,Yes
+Diabetes,303,No,No,No,No
+Diabetes,739,No,No,No,No
+Diabetes,324,Yes,No,No,No
+Diabetes,288,No,No,No,No
+Diabetes,503,No,Yes,Yes,Yes
+Diabetes,164,No,No,No,No
+Diabetes,182,No,Yes,No,No
+Diabetes,364,No,No,No,No
+Diabetes,291,No,No,No,No
+Diabetes,445,No,No,No,No
+Diabetes,65,No,Yes,Yes,Yes
+Diabetes,745,No,No,No,No
+Diabetes,711,No,No,No,No
+Diabetes,482,Yes,No,No,No
+Diabetes,457,Yes,Yes,Yes,Yes
+Diabetes,312,Yes,Yes,Yes,Yes
+Diabetes,605,No,No,No,No
+Diabetes,153,No,No,No,No
+Diabetes,522,No,No,No,No
+Diabetes,471,No,Yes,Yes,Yes
+Diabetes,225,No,Yes,Yes,Yes
+Diabetes,678,No,Yes,Yes,Yes
+Diabetes,19,Yes,No,No,No
+Diabetes,527,No,No,No,No
+Diabetes,255,No,Yes,Yes,Yes
+Diabetes,28,Yes,No,No,No
+Diabetes,680,No,Yes,No,No
+Maternal Health Risk,964,high risk,mid risk,high risk,high risk
+Maternal Health Risk,337,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,535,mid risk,mid risk,high risk,high risk
+Maternal Health Risk,691,mid risk,low risk,mid risk,mid risk
+Maternal Health Risk,71,low risk,mid risk,mid risk,low risk
+Maternal Health Risk,820,low risk,low risk,low risk,low risk
+Maternal Health Risk,16,low risk,low risk,low risk,low risk
+Maternal Health Risk,602,high risk,high risk,high risk,high risk
+Maternal Health Risk,695,high risk,high risk,high risk,high risk
+Maternal Health Risk,291,mid risk,low risk,low risk,low risk
+Maternal Health Risk,739,high risk,high risk,high risk,high risk
+Maternal Health Risk,923,high risk,mid risk,high risk,high risk
+Maternal Health Risk,527,low risk,mid risk,high risk,high risk
+Maternal Health Risk,832,low risk,high risk,low risk,low risk
+Maternal Health Risk,416,low risk,low risk,low risk,low risk
+Maternal Health Risk,881,low risk,low risk,low risk,low risk
+Maternal Health Risk,740,low risk,low risk,low risk,low risk
+Maternal Health Risk,499,low risk,mid risk,mid risk,mid risk
+Maternal Health Risk,374,low risk,low risk,low risk,low risk
+Maternal Health Risk,810,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,785,high risk,high risk,high risk,high risk
+Maternal Health Risk,561,low risk,low risk,low risk,low risk
+Maternal Health Risk,103,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,688,high risk,high risk,high risk,high risk
+Maternal Health Risk,385,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,685,mid risk,low risk,mid risk,mid risk
+Maternal Health Risk,506,low risk,low risk,low risk,low risk
+Maternal Health Risk,140,low risk,low risk,low risk,low risk
+Maternal Health Risk,501,high risk,low risk,high risk,high risk
+Maternal Health Risk,689,high risk,high risk,high risk,high risk
+Maternal Health Risk,882,mid risk,low risk,mid risk,mid risk
+Maternal Health Risk,715,mid risk,low risk,low risk,low risk
+Maternal Health Risk,359,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,116,high risk,high risk,high risk,high risk
+Maternal Health Risk,348,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,454,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,654,mid risk,high risk,mid risk,mid risk
+Maternal Health Risk,576,mid risk,low risk,low risk,mid risk
+Maternal Health Risk,95,low risk,high risk,low risk,low risk
+Maternal Health Risk,906,low risk,low risk,low risk,low risk
+Maternal Health Risk,466,high risk,high risk,high risk,high risk
+Maternal Health Risk,38,low risk,low risk,mid risk,mid risk
+Maternal Health Risk,376,high risk,high risk,high risk,high risk
+Maternal Health Risk,237,low risk,low risk,low risk,low risk
+Maternal Health Risk,176,low risk,low risk,low risk,low risk
+Maternal Health Risk,121,low risk,mid risk,high risk,high risk
+Maternal Health Risk,486,mid risk,low risk,mid risk,mid risk
+Maternal Health Risk,53,mid risk,mid risk,high risk,high risk
+Maternal Health Risk,664,high risk,high risk,high risk,high risk
+Maternal Health Risk,698,low risk,low risk,low risk,low risk
+Maternal Health Risk,21,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,627,low risk,mid risk,mid risk,mid risk
+Maternal Health Risk,850,low risk,low risk,low risk,low risk
+Maternal Health Risk,655,low risk,low risk,low risk,low risk
+Maternal Health Risk,33,mid risk,low risk,low risk,low risk
+Maternal Health Risk,125,mid risk,low risk,mid risk,mid risk
+Maternal Health Risk,361,low risk,low risk,low risk,low risk
+Maternal Health Risk,154,low risk,low risk,low risk,low risk
+Maternal Health Risk,861,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,346,high risk,mid risk,high risk,high risk
+Maternal Health Risk,903,mid risk,high risk,high risk,high risk
+Maternal Health Risk,831,low risk,low risk,low risk,low risk
+Maternal Health Risk,1001,high risk,mid risk,high risk,high risk
+Maternal Health Risk,264,low risk,low risk,low risk,low risk
+Maternal Health Risk,516,mid risk,low risk,mid risk,mid risk
+Maternal Health Risk,864,high risk,high risk,high risk,high risk
+Maternal Health Risk,529,mid risk,low risk,mid risk,mid risk
+Maternal Health Risk,450,high risk,low risk,high risk,high risk
+Maternal Health Risk,436,high risk,high risk,high risk,high risk
+Maternal Health Risk,724,low risk,low risk,low risk,low risk
+Maternal Health Risk,413,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,195,low risk,low risk,low risk,low risk
+Maternal Health Risk,32,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,976,mid risk,high risk,mid risk,mid risk
+Maternal Health Risk,120,low risk,low risk,low risk,low risk
+Maternal Health Risk,628,mid risk,high risk,high risk,high risk
+Maternal Health Risk,629,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,152,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,333,mid risk,low risk,mid risk,mid risk
+Maternal Health Risk,960,low risk,low risk,mid risk,mid risk
+Maternal Health Risk,225,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,709,low risk,low risk,low risk,low risk
+Maternal Health Risk,115,high risk,high risk,high risk,high risk
+Maternal Health Risk,919,low risk,mid risk,high risk,high risk
+Maternal Health Risk,229,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,727,mid risk,low risk,low risk,low risk
+Maternal Health Risk,336,low risk,low risk,low risk,low risk
+Maternal Health Risk,34,low risk,low risk,low risk,low risk
+Maternal Health Risk,928,low risk,mid risk,mid risk,mid risk
+Maternal Health Risk,896,low risk,low risk,low risk,low risk
+Maternal Health Risk,895,mid risk,low risk,low risk,low risk
+Maternal Health Risk,300,low risk,low risk,low risk,low risk
+Maternal Health Risk,1006,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,988,high risk,mid risk,high risk,high risk
+Maternal Health Risk,750,low risk,low risk,low risk,low risk
+Maternal Health Risk,369,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,201,low risk,low risk,low risk,low risk
+Maternal Health Risk,635,mid risk,low risk,mid risk,mid risk
+Maternal Health Risk,617,low risk,mid risk,low risk,low risk
+Maternal Health Risk,1012,low risk,low risk,low risk,low risk
+Maternal Health Risk,879,mid risk,low risk,low risk,low risk
+Maternal Health Risk,902,high risk,high risk,high risk,high risk
+Maternal Health Risk,481,low risk,mid risk,low risk,low risk
+Maternal Health Risk,408,low risk,mid risk,low risk,low risk
+Maternal Health Risk,161,low risk,low risk,low risk,low risk
+Maternal Health Risk,939,high risk,high risk,high risk,high risk
+Maternal Health Risk,391,low risk,low risk,low risk,low risk
+Maternal Health Risk,780,mid risk,low risk,low risk,low risk
+Maternal Health Risk,932,mid risk,low risk,mid risk,mid risk
+Maternal Health Risk,313,low risk,mid risk,low risk,low risk
+Maternal Health Risk,268,mid risk,low risk,mid risk,mid risk
+Maternal Health Risk,700,low risk,low risk,low risk,low risk
+Maternal Health Risk,871,low risk,low risk,low risk,low risk
+Maternal Health Risk,395,high risk,high risk,high risk,high risk
+Maternal Health Risk,965,low risk,low risk,low risk,low risk
+Maternal Health Risk,846,low risk,mid risk,low risk,low risk
+Maternal Health Risk,910,low risk,low risk,low risk,low risk
+Maternal Health Risk,559,high risk,high risk,high risk,high risk
+Maternal Health Risk,488,high risk,mid risk,low risk,low risk
+Maternal Health Risk,735,low risk,low risk,low risk,low risk
+Maternal Health Risk,281,mid risk,low risk,mid risk,mid risk
+Maternal Health Risk,674,low risk,mid risk,mid risk,mid risk
+Maternal Health Risk,520,low risk,low risk,low risk,low risk
+Maternal Health Risk,1007,mid risk,low risk,mid risk,mid risk
+Maternal Health Risk,1003,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,0,mid risk,low risk,mid risk,mid risk
+Maternal Health Risk,925,low risk,low risk,low risk,low risk
+Maternal Health Risk,875,high risk,mid risk,high risk,high risk
+Maternal Health Risk,196,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,156,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,701,high risk,high risk,high risk,high risk
+Maternal Health Risk,874,low risk,high risk,mid risk,mid risk
+Maternal Health Risk,278,low risk,low risk,low risk,low risk
+Maternal Health Risk,549,high risk,low risk,low risk,low risk
+Maternal Health Risk,274,high risk,high risk,high risk,high risk
+Maternal Health Risk,996,mid risk,high risk,high risk,high risk
+Maternal Health Risk,822,mid risk,low risk,mid risk,low risk
+Maternal Health Risk,610,high risk,low risk,low risk,low risk
+Maternal Health Risk,396,mid risk,high risk,mid risk,mid risk
+Maternal Health Risk,934,low risk,low risk,low risk,low risk
+Maternal Health Risk,51,high risk,high risk,high risk,high risk
+Maternal Health Risk,215,low risk,low risk,low risk,low risk
+Maternal Health Risk,401,high risk,high risk,high risk,high risk
+Maternal Health Risk,679,low risk,low risk,low risk,low risk
+Maternal Health Risk,600,high risk,high risk,high risk,high risk
+Maternal Health Risk,547,high risk,high risk,high risk,high risk
+Maternal Health Risk,122,high risk,high risk,high risk,high risk
+Maternal Health Risk,913,low risk,low risk,low risk,low risk
+Maternal Health Risk,503,high risk,high risk,high risk,high risk
+Maternal Health Risk,966,high risk,high risk,high risk,high risk
+Maternal Health Risk,599,high risk,high risk,high risk,high risk
+Maternal Health Risk,455,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,800,mid risk,mid risk,low risk,low risk
+Maternal Health Risk,791,low risk,mid risk,low risk,low risk
+Maternal Health Risk,142,low risk,low risk,low risk,low risk
+Maternal Health Risk,266,low risk,low risk,low risk,low risk
+Maternal Health Risk,792,mid risk,high risk,mid risk,mid risk
+Maternal Health Risk,887,mid risk,high risk,high risk,high risk
+Maternal Health Risk,507,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,70,low risk,low risk,low risk,low risk
+Maternal Health Risk,833,high risk,high risk,high risk,high risk
+Maternal Health Risk,17,low risk,low risk,low risk,low risk
+Maternal Health Risk,60,high risk,low risk,high risk,high risk
+Maternal Health Risk,98,low risk,mid risk,low risk,low risk
+Maternal Health Risk,536,high risk,high risk,high risk,high risk
+Maternal Health Risk,61,low risk,low risk,low risk,low risk
+Maternal Health Risk,905,high risk,high risk,high risk,high risk
+Maternal Health Risk,420,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,249,high risk,high risk,high risk,high risk
+Maternal Health Risk,297,mid risk,low risk,mid risk,mid risk
+Maternal Health Risk,680,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,135,high risk,high risk,high risk,high risk
+Maternal Health Risk,650,high risk,high risk,high risk,high risk
+Maternal Health Risk,933,low risk,low risk,low risk,high risk
+Maternal Health Risk,970,high risk,mid risk,high risk,high risk
+Maternal Health Risk,828,low risk,low risk,low risk,low risk
+Maternal Health Risk,855,high risk,high risk,high risk,high risk
+Maternal Health Risk,618,mid risk,low risk,mid risk,mid risk
+Maternal Health Risk,673,mid risk,low risk,mid risk,mid risk
+Maternal Health Risk,847,high risk,high risk,high risk,high risk
+Maternal Health Risk,227,low risk,low risk,low risk,low risk
+Maternal Health Risk,637,high risk,low risk,low risk,low risk
+Maternal Health Risk,307,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,283,low risk,low risk,low risk,low risk
+Maternal Health Risk,304,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,334,low risk,low risk,low risk,low risk
+Maternal Health Risk,182,high risk,high risk,high risk,high risk
+Maternal Health Risk,852,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,293,low risk,low risk,mid risk,mid risk
+Maternal Health Risk,889,low risk,low risk,mid risk,mid risk
+Maternal Health Risk,380,low risk,low risk,low risk,low risk
+Maternal Health Risk,1005,low risk,low risk,low risk,low risk
+Maternal Health Risk,345,low risk,low risk,low risk,low risk
+Maternal Health Risk,109,high risk,mid risk,low risk,low risk
+Maternal Health Risk,306,high risk,high risk,high risk,high risk
+Maternal Health Risk,119,high risk,high risk,high risk,high risk
+Maternal Health Risk,440,high risk,high risk,high risk,high risk
+Maternal Health Risk,415,low risk,low risk,low risk,low risk
+Maternal Health Risk,841,low risk,low risk,low risk,low risk
+Maternal Health Risk,464,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,723,high risk,high risk,high risk,high risk
+Maternal Health Risk,766,low risk,high risk,mid risk,mid risk
+Maternal Health Risk,915,mid risk,low risk,mid risk,mid risk
+Maternal Health Risk,48,high risk,high risk,high risk,high risk
+Maternal Health Risk,341,mid risk,low risk,mid risk,mid risk
+Maternal Health Risk,445,mid risk,mid risk,low risk,low risk
+Maternal Health Risk,759,high risk,high risk,high risk,high risk
+Maternal Health Risk,86,high risk,high risk,high risk,high risk
+Maternal Health Risk,837,mid risk,mid risk,low risk,low risk
+Maternal Health Risk,733,mid risk,high risk,mid risk,mid risk
+Maternal Health Risk,711,low risk,low risk,low risk,low risk
+Maternal Health Risk,113,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,433,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,104,high risk,high risk,high risk,high risk
+Maternal Health Risk,604,high risk,high risk,high risk,high risk
+Maternal Health Risk,796,low risk,low risk,mid risk,mid risk
+Maternal Health Risk,728,low risk,low risk,low risk,low risk
+Maternal Health Risk,490,high risk,high risk,high risk,high risk
+Maternal Health Risk,311,high risk,mid risk,mid risk,mid risk
+Maternal Health Risk,108,high risk,high risk,high risk,high risk
+Maternal Health Risk,151,mid risk,high risk,mid risk,mid risk
+Maternal Health Risk,863,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,658,mid risk,high risk,high risk,high risk
+Maternal Health Risk,327,high risk,high risk,high risk,high risk
+Maternal Health Risk,704,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,163,high risk,high risk,high risk,high risk
+Maternal Health Risk,126,mid risk,high risk,high risk,high risk
+Maternal Health Risk,12,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,898,high risk,high risk,high risk,high risk
+Maternal Health Risk,767,mid risk,low risk,low risk,low risk
+Maternal Health Risk,573,mid risk,low risk,low risk,low risk
+Maternal Health Risk,848,low risk,low risk,low risk,low risk
+Maternal Health Risk,751,low risk,mid risk,low risk,low risk
+Maternal Health Risk,814,mid risk,high risk,mid risk,mid risk
+Maternal Health Risk,355,high risk,high risk,high risk,high risk
+Maternal Health Risk,365,low risk,low risk,low risk,low risk
+Maternal Health Risk,218,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,261,mid risk,low risk,low risk,low risk
+Maternal Health Risk,324,high risk,high risk,high risk,high risk
+Maternal Health Risk,470,mid risk,high risk,mid risk,mid risk
+Maternal Health Risk,427,low risk,low risk,low risk,low risk
+Maternal Health Risk,558,low risk,low risk,low risk,low risk
+Maternal Health Risk,191,high risk,high risk,high risk,high risk
+Maternal Health Risk,623,high risk,mid risk,mid risk,mid risk
+Maternal Health Risk,100,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,768,mid risk,low risk,low risk,low risk
+Maternal Health Risk,9,low risk,low risk,low risk,low risk
+Maternal Health Risk,942,high risk,high risk,high risk,high risk
+Maternal Health Risk,102,high risk,mid risk,high risk,high risk
+Maternal Health Risk,808,low risk,low risk,low risk,low risk
+Maternal Health Risk,234,low risk,low risk,low risk,low risk
+Maternal Health Risk,460,high risk,high risk,high risk,high risk
+Maternal Health Risk,439,low risk,low risk,low risk,low risk
+Maternal Health Risk,793,low risk,low risk,mid risk,mid risk
+Maternal Health Risk,192,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,269,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,360,low risk,low risk,low risk,low risk
+Maternal Health Risk,720,high risk,high risk,high risk,high risk
+Maternal Health Risk,25,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,3,high risk,high risk,high risk,high risk
+Maternal Health Risk,564,low risk,mid risk,low risk,low risk
+Maternal Health Risk,620,high risk,high risk,high risk,high risk
+Maternal Health Risk,123,mid risk,low risk,low risk,low risk
+Maternal Health Risk,920,low risk,low risk,low risk,low risk
+Maternal Health Risk,748,low risk,low risk,low risk,low risk
+Maternal Health Risk,217,low risk,low risk,low risk,low risk
+Maternal Health Risk,802,low risk,low risk,low risk,low risk
+Maternal Health Risk,888,low risk,low risk,low risk,low risk
+Maternal Health Risk,665,high risk,high risk,high risk,high risk
+Maternal Health Risk,489,low risk,low risk,low risk,low risk
+Maternal Health Risk,662,low risk,low risk,low risk,low risk
+Maternal Health Risk,784,high risk,mid risk,high risk,high risk
+Maternal Health Risk,747,low risk,low risk,low risk,low risk
+Maternal Health Risk,153,low risk,low risk,low risk,low risk
+Maternal Health Risk,397,low risk,low risk,low risk,low risk
+Maternal Health Risk,158,low risk,mid risk,low risk,low risk
+Maternal Health Risk,891,low risk,low risk,low risk,low risk
+Maternal Health Risk,350,low risk,low risk,low risk,low risk
+Maternal Health Risk,409,low risk,high risk,low risk,low risk
+Maternal Health Risk,526,low risk,low risk,low risk,low risk
+Maternal Health Risk,65,low risk,low risk,low risk,low risk
+Maternal Health Risk,457,mid risk,low risk,mid risk,mid risk
+Maternal Health Risk,916,low risk,low risk,low risk,low risk
+Maternal Health Risk,579,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,157,low risk,low risk,low risk,low risk
+Maternal Health Risk,430,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,708,low risk,low risk,low risk,low risk
+Maternal Health Risk,589,low risk,mid risk,mid risk,low risk
+Maternal Health Risk,208,mid risk,low risk,mid risk,mid risk
+Maternal Health Risk,577,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,236,low risk,low risk,low risk,low risk
+Maternal Health Risk,943,low risk,low risk,low risk,low risk
+Maternal Health Risk,705,mid risk,low risk,low risk,mid risk
+Maternal Health Risk,956,high risk,high risk,high risk,high risk
+Maternal Health Risk,471,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,624,high risk,high risk,high risk,high risk
+Maternal Health Risk,289,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,271,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,344,high risk,mid risk,high risk,high risk
+Maternal Health Risk,742,low risk,mid risk,mid risk,mid risk
+Maternal Health Risk,187,mid risk,mid risk,mid risk,mid risk
+Maternal Health Risk,285,high risk,high risk,high risk,high risk
+Maternal Health Risk,472,low risk,low risk,low risk,low risk
+Maternal Health Risk,515,mid risk,high risk,high risk,high risk
+Maternal Health Risk,63,low risk,mid risk,mid risk,mid risk
+German Credit,934,bad,good,good,good
+German Credit,133,good,bad,good,good
+German Credit,910,good,good,good,good
+German Credit,655,good,good,good,good
+German Credit,99,bad,good,bad,bad
+German Credit,661,good,good,good,good
+German Credit,440,good,good,good,good
+German Credit,446,bad,good,good,good
+German Credit,492,good,good,good,good
+German Credit,639,bad,good,good,good
+German Credit,744,good,good,good,good
+German Credit,890,good,good,good,good
+German Credit,487,good,good,good,good
+German Credit,466,good,good,good,good
+German Credit,712,good,good,good,good
+German Credit,774,good,good,good,good
+German Credit,902,good,good,good,good
+German Credit,154,good,good,good,good
+German Credit,637,good,bad,bad,bad
+German Credit,936,good,good,good,good
+German Credit,869,bad,good,good,good
+German Credit,298,good,bad,good,good
+German Credit,536,good,good,good,good
+German Credit,493,good,good,good,good
+German Credit,625,good,good,good,good
+German Credit,669,bad,good,good,good
+German Credit,620,good,good,good,good
+German Credit,666,good,good,good,good
+German Credit,177,good,good,good,good
+German Credit,390,good,good,good,good
+German Credit,326,good,good,good,good
+German Credit,290,bad,good,good,good
+German Credit,350,bad,good,bad,bad
+German Credit,599,good,good,good,good
+German Credit,618,good,good,good,good
+German Credit,862,good,good,good,good
+German Credit,678,good,good,bad,bad
+German Credit,271,bad,good,good,good
+German Credit,519,good,good,good,good
+German Credit,582,bad,bad,bad,bad
+German Credit,994,good,good,good,good
+German Credit,353,good,good,good,good
+German Credit,592,good,good,bad,bad
+German Credit,42,good,bad,good,good
+German Credit,803,good,good,good,good
+German Credit,692,good,good,bad,bad
+German Credit,35,good,bad,good,good
+German Credit,59,good,good,good,good
+German Credit,987,good,good,good,good
+German Credit,1,good,good,good,good
+German Credit,127,good,good,good,good
+German Credit,844,good,good,good,good
+German Credit,629,good,good,good,good
+German Credit,808,good,good,good,good
+German Credit,131,bad,good,good,good
+German Credit,367,good,good,good,good
+German Credit,632,good,good,good,good
+German Credit,825,good,good,good,good
+German Credit,110,bad,bad,bad,bad
+German Credit,454,good,good,good,good
+German Credit,278,good,good,good,good
+German Credit,216,good,good,good,good
+German Credit,87,bad,bad,bad,bad
+German Credit,957,good,good,good,good
+German Credit,916,good,good,good,good
+German Credit,464,good,good,good,good
+German Credit,336,bad,bad,bad,good
+German Credit,252,bad,bad,bad,bad
+German Credit,270,good,good,good,good
+German Credit,245,good,good,good,good
+German Credit,605,good,good,good,good
+German Credit,238,bad,good,good,good
+German Credit,161,good,good,good,good
+German Credit,673,good,good,good,good
+German Credit,940,bad,good,bad,bad
+German Credit,232,good,good,bad,bad
+German Credit,771,good,good,good,good
+German Credit,321,good,good,good,good
+German Credit,77,good,good,good,good
+German Credit,783,good,good,good,good
+German Credit,575,bad,bad,bad,bad
+German Credit,23,good,good,good,good
+German Credit,561,good,good,good,good
+German Credit,576,good,bad,bad,bad
+German Credit,413,good,good,good,good
+German Credit,525,good,good,good,good
+German Credit,426,good,good,good,bad
+German Credit,872,good,good,good,good
+German Credit,533,good,good,good,good
+German Credit,456,bad,good,bad,bad
+German Credit,571,bad,good,good,good
+German Credit,358,good,good,good,good
+German Credit,11,bad,bad,bad,bad
+German Credit,142,bad,good,good,good
+German Credit,188,good,good,good,good
+German Credit,642,bad,good,good,good
+German Credit,646,good,good,good,good
+German Credit,685,good,good,good,good
+German Credit,70,good,good,good,good
+German Credit,793,good,good,good,good
+German Credit,665,bad,bad,good,good
+German Credit,47,bad,good,good,good
+German Credit,502,good,good,good,good
+German Credit,821,good,good,good,good
+German Credit,103,good,good,good,good
+German Credit,281,good,good,good,good
+German Credit,601,bad,good,good,good
+German Credit,559,bad,bad,good,good
+German Credit,565,bad,bad,good,good
+German Credit,924,good,good,good,good
+German Credit,738,good,good,good,good
+German Credit,981,good,good,good,good
+German Credit,644,bad,bad,bad,bad
+German Credit,500,good,good,good,good
+German Credit,191,good,good,good,good
+German Credit,84,good,good,good,good
+German Credit,328,bad,good,bad,bad
+German Credit,911,bad,bad,bad,bad
+German Credit,568,good,good,good,good
+German Credit,483,good,good,bad,good
+German Credit,473,bad,good,bad,bad
+German Credit,630,bad,good,good,good
+German Credit,956,bad,bad,bad,bad
+German Credit,458,bad,bad,bad,bad
+German Credit,921,good,good,good,good
+German Credit,459,bad,good,good,good
+German Credit,697,good,good,good,good
+German Credit,329,good,good,good,good
+German Credit,842,good,good,good,good
+German Credit,411,good,good,good,good
+German Credit,647,bad,good,good,good
+German Credit,212,bad,bad,bad,bad
+German Credit,961,good,good,good,good
+German Credit,222,good,good,good,good
+German Credit,128,good,good,good,good
+German Credit,883,good,good,good,good
+German Credit,171,good,good,good,good
+German Credit,38,good,good,good,good
+German Credit,909,good,good,good,good
+German Credit,286,bad,bad,bad,bad
+German Credit,535,good,bad,good,good
+German Credit,480,bad,good,good,good
+German Credit,304,good,good,good,good
+German Credit,837,good,good,bad,bad
+German Credit,314,good,good,good,good
+German Credit,109,bad,bad,bad,bad
+German Credit,5,good,good,bad,bad
+German Credit,21,bad,good,bad,good
+German Credit,214,good,good,bad,good
+German Credit,371,good,good,good,good
+German Credit,417,bad,good,bad,bad
+German Credit,194,bad,good,good,good
+German Credit,999,good,good,good,good
+German Credit,395,bad,good,good,good
+German Credit,137,good,good,good,good
+German Credit,198,good,good,bad,bad
+German Credit,760,good,good,bad,good
+German Credit,297,good,bad,good,good
+German Credit,82,good,good,good,good
+German Credit,218,good,good,good,good
+German Credit,877,bad,good,good,good
+German Credit,875,good,good,good,good
+German Credit,613,good,good,good,good
+German Credit,152,good,good,good,good
+German Credit,72,good,good,good,good
+German Credit,277,bad,good,good,good
+German Credit,859,good,good,good,good
+German Credit,453,good,good,bad,bad
+German Credit,425,good,good,bad,bad
+German Credit,534,good,good,good,good
+German Credit,294,good,good,good,good
+German Credit,62,bad,good,good,good
+German Credit,503,bad,bad,bad,bad
+German Credit,870,bad,good,good,good
+German Credit,444,bad,good,bad,bad
+German Credit,118,good,good,good,good
+German Credit,634,good,good,good,good
+German Credit,992,good,good,good,good
+German Credit,804,good,good,good,good
+German Credit,824,good,good,good,good
+German Credit,675,good,good,good,good
+German Credit,388,good,good,good,good
+German Credit,233,good,good,good,good
+German Credit,971,bad,good,bad,good
+German Credit,134,good,bad,good,good
+German Credit,477,good,good,good,good
+German Credit,762,good,good,good,good
+German Credit,184,good,good,good,good
+German Credit,195,good,good,good,good
+German Credit,186,bad,bad,bad,bad
+German Credit,463,good,good,bad,bad
+German Credit,501,good,good,good,good
+German Credit,801,good,good,good,good
+German Credit,404,bad,good,bad,bad
+German Credit,811,bad,bad,bad,bad
+German Credit,915,bad,bad,bad,bad
+German Credit,397,good,good,good,good
+German Credit,584,good,good,bad,bad
+German Credit,597,bad,bad,bad,bad
+German Credit,833,good,bad,good,good
+German Credit,809,bad,bad,bad,bad
+German Credit,765,good,good,good,good
+German Credit,285,good,good,good,good
+German Credit,398,bad,good,good,good
+German Credit,528,good,bad,bad,bad
+German Credit,430,good,bad,bad,bad
+German Credit,482,bad,bad,bad,bad
+German Credit,556,good,good,good,good
+German Credit,122,good,good,good,good
+German Credit,917,good,good,good,good
+German Credit,327,bad,good,good,good
+German Credit,931,good,good,good,good
+German Credit,603,good,good,good,good
+German Credit,312,good,good,good,good
+German Credit,995,bad,good,bad,bad
+German Credit,810,bad,bad,good,good
+German Credit,573,good,good,good,good
+German Credit,950,good,good,good,good
+German Credit,89,good,good,good,good
+German Credit,291,bad,good,good,good
+German Credit,124,bad,good,good,good
+German Credit,105,good,good,good,good
+German Credit,325,good,good,good,good
+German Credit,672,bad,good,good,good
+German Credit,716,good,good,good,good
+German Credit,104,good,good,good,good
+German Credit,428,good,good,good,good
+German Credit,180,good,good,good,good
+German Credit,246,good,good,good,good
+German Credit,606,bad,good,good,good
+German Credit,938,bad,good,good,good
+German Credit,828,good,good,bad,bad
+German Credit,847,good,good,good,good
+German Credit,893,bad,bad,bad,bad
+German Credit,815,good,good,good,good
+German Credit,409,bad,good,good,good
+German Credit,986,good,good,good,good
+German Credit,773,bad,bad,bad,bad
+German Credit,305,bad,good,good,good
+German Credit,324,good,good,good,good
+German Credit,959,good,bad,bad,bad
+German Credit,377,good,good,good,good
+German Credit,780,bad,good,good,good
+German Credit,823,good,good,good,good
+German Credit,217,bad,bad,good,good
+German Credit,508,good,good,good,good
+German Credit,711,good,good,good,good
+German Credit,819,bad,good,good,good
+German Credit,817,good,good,good,good
+German Credit,150,good,good,good,good
+German Credit,726,good,good,good,good
+German Credit,30,good,good,good,good
+German Credit,4,good,good,good,good
+German Credit,845,bad,bad,bad,bad
+German Credit,586,good,good,good,good
+German Credit,901,bad,good,bad,bad
+German Credit,567,bad,good,good,good
+German Credit,33,good,good,good,good
+German Credit,734,good,good,good,good
+German Credit,509,bad,bad,bad,bad
+German Credit,932,good,good,good,good
+German Credit,807,good,good,good,good
+German Credit,681,good,good,good,good
+German Credit,581,good,good,good,good
+German Credit,707,good,good,good,good
+German Credit,261,good,good,good,bad
+German Credit,189,good,good,good,good
+German Credit,159,bad,good,good,good
+German Credit,8,good,good,good,good
+German Credit,39,bad,bad,bad,bad
+German Credit,709,bad,good,good,good
+German Credit,423,good,good,good,good
+German Credit,340,good,good,good,good
+German Credit,778,good,good,good,good
+German Credit,300,good,good,good,good
+German Credit,399,good,good,good,good
+German Credit,829,good,good,good,good
+German Credit,505,good,good,good,good
+German Credit,400,good,good,good,good
+German Credit,591,bad,good,good,good
+German Credit,974,good,good,good,good
+German Credit,512,bad,good,good,good
+German Credit,952,good,good,good,good
+German Credit,964,bad,good,bad,bad
+German Credit,832,good,good,good,good
+German Credit,722,good,good,good,good
+German Credit,919,bad,good,good,good
+German Credit,146,good,good,good,good
+German Credit,19,good,good,good,good
+German Credit,680,good,good,bad,bad
+German Credit,741,good,good,good,good
+German Credit,939,bad,good,bad,bad
+German Credit,269,bad,bad,bad,bad
+German Credit,402,good,good,good,good
+German Credit,656,good,good,good,good
+German Credit,229,good,good,good,good
+German Credit,166,good,good,good,good
+German Credit,660,good,good,bad,bad
+German Credit,550,bad,good,good,good
+German Credit,132,bad,bad,good,good
+QSAR Biodegradation,958,No,Yes,Yes,Yes
+QSAR Biodegradation,906,No,No,No,No
+QSAR Biodegradation,20,Yes,No,No,No
+QSAR Biodegradation,484,No,Yes,Yes,Yes
+QSAR Biodegradation,989,No,No,No,No
+QSAR Biodegradation,32,Yes,Yes,Yes,Yes
+QSAR Biodegradation,1024,Yes,Yes,Yes,Yes
+QSAR Biodegradation,317,No,No,No,No
+QSAR Biodegradation,236,No,No,No,No
+QSAR Biodegradation,538,Yes,Yes,Yes,Yes
+QSAR Biodegradation,73,No,No,No,No
+QSAR Biodegradation,432,Yes,No,No,No
+QSAR Biodegradation,673,No,Yes,Yes,Yes
+QSAR Biodegradation,660,No,No,No,No
+QSAR Biodegradation,434,No,Yes,Yes,Yes
+QSAR Biodegradation,371,No,No,No,No
+QSAR Biodegradation,1050,Yes,Yes,Yes,Yes
+QSAR Biodegradation,329,No,No,No,No
+QSAR Biodegradation,670,No,No,No,No
+QSAR Biodegradation,458,Yes,Yes,Yes,No
+QSAR Biodegradation,705,No,No,No,No
+QSAR Biodegradation,578,No,No,No,No
+QSAR Biodegradation,1031,No,No,No,No
+QSAR Biodegradation,929,No,Yes,Yes,Yes
+QSAR Biodegradation,449,Yes,No,No,No
+QSAR Biodegradation,890,No,No,No,No
+QSAR Biodegradation,930,No,No,No,No
+QSAR Biodegradation,844,Yes,Yes,Yes,Yes
+QSAR Biodegradation,387,No,No,No,No
+QSAR Biodegradation,117,No,No,No,No
+QSAR Biodegradation,274,No,No,No,Yes
+QSAR Biodegradation,45,No,No,No,No
+QSAR Biodegradation,275,Yes,No,No,No
+QSAR Biodegradation,377,No,No,No,No
+QSAR Biodegradation,184,No,No,No,No
+QSAR Biodegradation,895,No,No,No,No
+QSAR Biodegradation,727,No,Yes,No,No
+QSAR Biodegradation,224,Yes,Yes,Yes,Yes
+QSAR Biodegradation,235,No,No,No,No
+QSAR Biodegradation,295,No,No,No,No
+QSAR Biodegradation,768,Yes,Yes,Yes,Yes
+QSAR Biodegradation,761,No,No,No,No
+QSAR Biodegradation,541,No,No,No,No
+QSAR Biodegradation,431,No,No,No,No
+QSAR Biodegradation,436,Yes,Yes,Yes,Yes
+QSAR Biodegradation,965,No,No,No,No
+QSAR Biodegradation,208,No,No,No,No
+QSAR Biodegradation,41,No,Yes,No,No
+QSAR Biodegradation,655,No,No,No,No
+QSAR Biodegradation,463,No,No,Yes,Yes
+QSAR Biodegradation,770,No,No,No,No
+QSAR Biodegradation,137,No,No,No,No
+QSAR Biodegradation,350,No,No,No,No
+QSAR Biodegradation,400,Yes,Yes,Yes,Yes
+QSAR Biodegradation,238,Yes,Yes,Yes,Yes
+QSAR Biodegradation,993,No,No,No,No
+QSAR Biodegradation,331,Yes,No,No,No
+QSAR Biodegradation,501,No,No,No,No
+QSAR Biodegradation,153,No,No,No,No
+QSAR Biodegradation,638,Yes,Yes,Yes,Yes
+QSAR Biodegradation,310,No,No,No,No
+QSAR Biodegradation,288,No,No,No,No
+QSAR Biodegradation,790,Yes,Yes,Yes,Yes
+QSAR Biodegradation,936,No,No,No,No
+QSAR Biodegradation,420,No,No,No,No
+QSAR Biodegradation,136,No,No,No,No
+QSAR Biodegradation,328,No,No,No,No
+QSAR Biodegradation,832,No,Yes,No,No
+QSAR Biodegradation,1029,Yes,Yes,Yes,Yes
+QSAR Biodegradation,1026,Yes,Yes,Yes,Yes
+QSAR Biodegradation,742,Yes,Yes,Yes,Yes
+QSAR Biodegradation,268,No,Yes,Yes,No
+QSAR Biodegradation,230,No,No,No,No
+QSAR Biodegradation,524,No,No,No,No
+QSAR Biodegradation,833,No,No,No,No
+QSAR Biodegradation,229,No,Yes,Yes,Yes
+QSAR Biodegradation,747,Yes,Yes,Yes,Yes
+QSAR Biodegradation,802,No,No,No,No
+QSAR Biodegradation,867,Yes,Yes,Yes,Yes
+QSAR Biodegradation,123,Yes,Yes,Yes,No
+QSAR Biodegradation,94,No,Yes,No,No
+QSAR Biodegradation,394,No,No,Yes,Yes
+QSAR Biodegradation,644,No,No,No,No
+QSAR Biodegradation,490,Yes,Yes,Yes,Yes
+QSAR Biodegradation,990,No,Yes,No,No
+QSAR Biodegradation,839,No,No,No,No
+QSAR Biodegradation,271,No,Yes,No,No
+QSAR Biodegradation,452,Yes,Yes,Yes,Yes
+QSAR Biodegradation,411,No,No,No,No
+QSAR Biodegradation,1014,No,No,No,No
+QSAR Biodegradation,15,No,No,No,No
+QSAR Biodegradation,868,No,Yes,Yes,Yes
+QSAR Biodegradation,65,No,No,No,No
+QSAR Biodegradation,511,No,No,No,No
+QSAR Biodegradation,265,No,No,No,No
+QSAR Biodegradation,789,No,No,No,No
+QSAR Biodegradation,152,Yes,Yes,Yes,Yes
+QSAR Biodegradation,255,No,No,No,No
+QSAR Biodegradation,596,Yes,Yes,Yes,Yes
+QSAR Biodegradation,665,No,No,No,No
+QSAR Biodegradation,488,No,No,No,No
+QSAR Biodegradation,553,No,No,No,No
+QSAR Biodegradation,728,Yes,Yes,Yes,Yes
+QSAR Biodegradation,991,No,Yes,No,No
+QSAR Biodegradation,828,No,Yes,No,No
+QSAR Biodegradation,1049,No,No,No,No
+QSAR Biodegradation,206,No,No,No,No
+QSAR Biodegradation,193,No,No,No,No
+QSAR Biodegradation,636,No,No,No,No
+QSAR Biodegradation,57,No,No,No,No
+QSAR Biodegradation,28,Yes,Yes,Yes,Yes
+QSAR Biodegradation,291,Yes,No,No,Yes
+QSAR Biodegradation,101,Yes,Yes,Yes,Yes
+QSAR Biodegradation,221,Yes,Yes,Yes,Yes
+QSAR Biodegradation,776,Yes,Yes,Yes,Yes
+QSAR Biodegradation,824,No,No,No,No
+QSAR Biodegradation,880,No,Yes,Yes,Yes
+QSAR Biodegradation,492,No,Yes,Yes,Yes
+QSAR Biodegradation,536,Yes,No,No,No
+QSAR Biodegradation,332,Yes,Yes,Yes,Yes
+QSAR Biodegradation,401,No,No,No,No
+QSAR Biodegradation,234,Yes,Yes,Yes,Yes
+QSAR Biodegradation,66,No,Yes,No,No
+QSAR Biodegradation,460,No,No,No,No
+QSAR Biodegradation,282,Yes,Yes,No,No
+QSAR Biodegradation,812,No,No,No,No
+QSAR Biodegradation,277,No,No,No,No
+QSAR Biodegradation,568,No,No,No,No
+QSAR Biodegradation,33,No,No,No,No
+QSAR Biodegradation,44,Yes,Yes,Yes,Yes
+QSAR Biodegradation,785,No,No,No,No
+QSAR Biodegradation,618,Yes,No,Yes,Yes
+QSAR Biodegradation,927,No,No,No,No
+QSAR Biodegradation,714,Yes,Yes,Yes,Yes
+QSAR Biodegradation,430,No,No,No,No
+QSAR Biodegradation,576,Yes,Yes,Yes,Yes
+QSAR Biodegradation,864,No,No,No,No
+QSAR Biodegradation,814,No,No,No,No
+QSAR Biodegradation,986,No,No,Yes,Yes
+QSAR Biodegradation,845,No,No,No,No
+QSAR Biodegradation,173,No,No,No,No
+QSAR Biodegradation,1016,No,No,No,No
+QSAR Biodegradation,620,No,Yes,No,No
+QSAR Biodegradation,18,No,No,No,No
+QSAR Biodegradation,213,No,No,No,No
+QSAR Biodegradation,628,No,No,No,No
+QSAR Biodegradation,694,Yes,Yes,Yes,Yes
+QSAR Biodegradation,217,No,No,No,No
+QSAR Biodegradation,330,Yes,Yes,Yes,Yes
+QSAR Biodegradation,877,No,No,No,No
+QSAR Biodegradation,344,No,No,No,No
+QSAR Biodegradation,887,No,Yes,No,No
+QSAR Biodegradation,203,No,No,No,No
+QSAR Biodegradation,885,No,No,No,No
+QSAR Biodegradation,474,Yes,Yes,Yes,Yes
+QSAR Biodegradation,980,No,No,No,No
+QSAR Biodegradation,281,Yes,Yes,Yes,Yes
+QSAR Biodegradation,141,No,No,No,No
+QSAR Biodegradation,279,Yes,Yes,Yes,Yes
+QSAR Biodegradation,982,Yes,Yes,Yes,Yes
+QSAR Biodegradation,917,No,No,No,No
+QSAR Biodegradation,322,No,No,No,No
+QSAR Biodegradation,134,No,No,No,No
+QSAR Biodegradation,68,No,No,No,No
+QSAR Biodegradation,666,No,Yes,Yes,Yes
+QSAR Biodegradation,416,No,No,No,No
+QSAR Biodegradation,579,No,No,No,No
+QSAR Biodegradation,557,No,No,Yes,No
+QSAR Biodegradation,389,No,No,No,No
+QSAR Biodegradation,871,Yes,Yes,Yes,Yes
+QSAR Biodegradation,0,Yes,Yes,Yes,Yes
+QSAR Biodegradation,205,No,No,No,No
+QSAR Biodegradation,637,Yes,Yes,Yes,Yes
+QSAR Biodegradation,686,No,No,No,No
+QSAR Biodegradation,40,No,No,No,No
+QSAR Biodegradation,1028,No,No,No,No
+QSAR Biodegradation,388,No,Yes,No,No
+QSAR Biodegradation,667,No,No,No,No
+QSAR Biodegradation,365,Yes,Yes,Yes,Yes
+QSAR Biodegradation,587,No,No,No,No
+QSAR Biodegradation,79,Yes,Yes,Yes,Yes
+QSAR Biodegradation,592,No,No,No,No
+QSAR Biodegradation,444,No,Yes,No,No
+QSAR Biodegradation,154,No,No,No,No
+QSAR Biodegradation,258,No,No,No,No
+QSAR Biodegradation,616,No,No,No,No
+QSAR Biodegradation,925,No,Yes,No,No
+QSAR Biodegradation,138,No,No,No,No
+QSAR Biodegradation,386,No,No,No,No
+QSAR Biodegradation,198,Yes,Yes,Yes,Yes
+QSAR Biodegradation,304,No,No,No,No
+QSAR Biodegradation,461,Yes,Yes,Yes,Yes
+QSAR Biodegradation,1051,Yes,Yes,Yes,Yes
+QSAR Biodegradation,765,No,No,No,No
+QSAR Biodegradation,172,Yes,Yes,No,Yes
+QSAR Biodegradation,468,Yes,No,No,No
+QSAR Biodegradation,412,No,No,No,No
+QSAR Biodegradation,953,No,No,No,No
+QSAR Biodegradation,897,No,Yes,No,No
+QSAR Biodegradation,1038,No,No,No,No
+QSAR Biodegradation,435,No,Yes,No,No
+QSAR Biodegradation,589,No,No,No,No
+QSAR Biodegradation,343,Yes,Yes,Yes,Yes
+QSAR Biodegradation,619,Yes,Yes,Yes,Yes
+QSAR Biodegradation,438,Yes,Yes,Yes,Yes
+QSAR Biodegradation,78,Yes,Yes,Yes,Yes
+QSAR Biodegradation,594,No,No,No,No
+QSAR Biodegradation,625,Yes,Yes,Yes,Yes
+QSAR Biodegradation,645,No,No,No,No
+QSAR Biodegradation,301,Yes,Yes,Yes,Yes
+QSAR Biodegradation,951,Yes,Yes,Yes,Yes
+QSAR Biodegradation,108,Yes,Yes,Yes,Yes
+QSAR Biodegradation,836,Yes,Yes,Yes,Yes
+QSAR Biodegradation,646,No,No,No,No
+QSAR Biodegradation,760,No,No,No,No
+QSAR Biodegradation,191,No,No,No,No
+QSAR Biodegradation,564,No,No,No,No
+QSAR Biodegradation,509,Yes,Yes,Yes,Yes
+QSAR Biodegradation,654,No,Yes,Yes,Yes
+QSAR Biodegradation,1007,No,No,No,No
+QSAR Biodegradation,617,Yes,Yes,Yes,Yes
+QSAR Biodegradation,429,No,No,No,No
+QSAR Biodegradation,112,No,Yes,No,No
+QSAR Biodegradation,692,No,No,No,No
+QSAR Biodegradation,50,No,No,No,No
+QSAR Biodegradation,889,No,No,No,No
+QSAR Biodegradation,86,No,No,No,No
+QSAR Biodegradation,293,Yes,Yes,Yes,Yes
+QSAR Biodegradation,759,Yes,Yes,No,No
+QSAR Biodegradation,128,No,No,No,No
+QSAR Biodegradation,144,No,No,No,No
+QSAR Biodegradation,731,No,No,No,No
+QSAR Biodegradation,372,Yes,Yes,Yes,Yes
+QSAR Biodegradation,569,No,No,No,No
+QSAR Biodegradation,678,Yes,Yes,Yes,Yes
+QSAR Biodegradation,319,No,Yes,Yes,Yes
+QSAR Biodegradation,181,No,No,No,No
+QSAR Biodegradation,933,No,No,No,No
+QSAR Biodegradation,215,No,No,No,No
+QSAR Biodegradation,188,Yes,Yes,Yes,Yes
+QSAR Biodegradation,653,Yes,Yes,Yes,Yes
+QSAR Biodegradation,39,No,No,No,No
+QSAR Biodegradation,147,No,No,No,No
+QSAR Biodegradation,919,Yes,Yes,Yes,Yes
+QSAR Biodegradation,570,No,No,No,No
+QSAR Biodegradation,763,No,No,No,No
+QSAR Biodegradation,306,No,No,No,No
+QSAR Biodegradation,292,Yes,Yes,Yes,Yes
+QSAR Biodegradation,829,No,No,No,No
+QSAR Biodegradation,1042,No,No,No,No
+QSAR Biodegradation,996,Yes,Yes,Yes,Yes
+QSAR Biodegradation,186,No,No,No,No
+QSAR Biodegradation,688,No,No,No,No
+QSAR Biodegradation,369,Yes,No,Yes,Yes
+QSAR Biodegradation,671,Yes,No,No,No
+QSAR Biodegradation,574,Yes,Yes,Yes,Yes
+QSAR Biodegradation,699,No,No,No,No
+QSAR Biodegradation,1000,No,Yes,No,No
+QSAR Biodegradation,223,No,No,No,No
+QSAR Biodegradation,118,No,Yes,Yes,Yes
+QSAR Biodegradation,130,Yes,Yes,No,No
+QSAR Biodegradation,406,No,No,No,No
+QSAR Biodegradation,946,Yes,No,No,No
+QSAR Biodegradation,861,Yes,No,Yes,Yes
+QSAR Biodegradation,1023,Yes,Yes,Yes,Yes
+QSAR Biodegradation,835,No,Yes,No,No
+QSAR Biodegradation,231,No,No,No,No
+QSAR Biodegradation,98,No,No,No,No
+QSAR Biodegradation,718,Yes,No,No,No
+QSAR Biodegradation,93,No,No,No,No
+QSAR Biodegradation,107,No,No,No,No
+QSAR Biodegradation,204,Yes,No,No,No
+QSAR Biodegradation,494,No,No,No,No
+QSAR Biodegradation,695,Yes,Yes,Yes,Yes
+QSAR Biodegradation,24,Yes,Yes,Yes,Yes
+QSAR Biodegradation,556,No,No,No,No
+QSAR Biodegradation,69,No,No,No,No
+QSAR Biodegradation,702,Yes,Yes,Yes,Yes
+QSAR Biodegradation,55,Yes,Yes,Yes,Yes
+QSAR Biodegradation,841,Yes,Yes,Yes,Yes
+QSAR Biodegradation,52,No,No,No,No
+QSAR Biodegradation,170,No,Yes,No,No
+QSAR Biodegradation,847,Yes,Yes,Yes,Yes
+QSAR Biodegradation,801,No,No,No,No
+QSAR Biodegradation,859,Yes,Yes,Yes,Yes
+QSAR Biodegradation,414,No,No,No,No
+QSAR Biodegradation,633,No,No,No,No
+QSAR Biodegradation,489,No,No,No,No
+QSAR Biodegradation,904,Yes,Yes,Yes,Yes
+QSAR Biodegradation,970,No,No,No,No
+QSAR Biodegradation,308,No,Yes,No,No
+QSAR Biodegradation,384,Yes,Yes,Yes,Yes
+QSAR Biodegradation,788,Yes,Yes,Yes,Yes
+QSAR Biodegradation,262,Yes,Yes,Yes,Yes
+QSAR Biodegradation,131,No,Yes,Yes,Yes
+QSAR Biodegradation,485,Yes,Yes,No,No
+QSAR Biodegradation,202,No,No,No,No
+QSAR Biodegradation,176,Yes,Yes,Yes,Yes
+QSAR Biodegradation,999,Yes,Yes,Yes,Yes
+QSAR Biodegradation,531,No,No,No,No
+QSAR Biodegradation,795,Yes,Yes,Yes,Yes
+QSAR Biodegradation,903,No,No,No,No
+QSAR Biodegradation,823,No,No,No,No
+QSAR Biodegradation,921,Yes,Yes,Yes,Yes
+QSAR Biodegradation,1019,Yes,Yes,Yes,Yes
+QSAR Biodegradation,560,No,No,No,No
+QSAR Biodegradation,905,No,No,No,No
+QSAR Biodegradation,346,No,No,No,No
+QSAR Biodegradation,341,No,No,No,No
+QSAR Biodegradation,276,No,No,No,No
+QSAR Biodegradation,437,No,No,No,No
+QSAR Biodegradation,445,No,No,No,No
+QSAR Biodegradation,472,No,No,No,No
+QSAR Biodegradation,168,Yes,Yes,Yes,Yes
+QSAR Biodegradation,353,No,No,No,No
+QSAR Biodegradation,652,Yes,Yes,Yes,Yes
+QSAR Biodegradation,16,Yes,Yes,No,Yes

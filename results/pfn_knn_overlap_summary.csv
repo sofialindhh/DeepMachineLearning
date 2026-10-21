@@ -1,0 +1,6 @@
+dataset,model,k,n_test,mean_overlap_at_k,median_overlap_at_k
+Blood Transfusion,PFN,5,225,0.4417777777777778,0.4
+Diabetes,PFN,5,231,0.4121212121212121,0.4
+Maternal Health Risk,PFN,5,305,0.4354098360655738,0.4
+German Credit,PFN,5,300,0.22866666666666666,0.2
+QSAR Biodegradation,PFN,5,317,0.4529968454258674,0.4

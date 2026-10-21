@@ -1,0 +1,1282 @@
+dataset,model,context_size,test_index,y_true,y_pred
+Blood Transfusion,PFN,5,49,No,No
+Blood Transfusion,PFN,5,629,Yes,No
+Blood Transfusion,PFN,5,224,No,Yes
+Blood Transfusion,PFN,5,413,No,No
+Blood Transfusion,PFN,5,93,No,No
+Blood Transfusion,PFN,5,597,No,No
+Blood Transfusion,PFN,5,434,Yes,No
+Blood Transfusion,PFN,5,19,No,No
+Blood Transfusion,PFN,5,549,Yes,No
+Blood Transfusion,PFN,5,141,No,No
+Blood Transfusion,PFN,5,293,No,No
+Blood Transfusion,PFN,5,250,Yes,No
+Blood Transfusion,PFN,5,56,No,No
+Blood Transfusion,PFN,5,130,No,No
+Blood Transfusion,PFN,5,586,No,No
+Blood Transfusion,PFN,5,574,No,No
+Blood Transfusion,PFN,5,255,No,No
+Blood Transfusion,PFN,5,168,No,No
+Blood Transfusion,PFN,5,568,Yes,No
+Blood Transfusion,PFN,5,416,No,No
+Blood Transfusion,PFN,5,389,No,No
+Blood Transfusion,PFN,5,588,No,No
+Blood Transfusion,PFN,5,707,No,No
+Blood Transfusion,PFN,5,729,No,Yes
+Blood Transfusion,PFN,5,703,No,Yes
+Blood Transfusion,PFN,5,70,No,No
+Blood Transfusion,PFN,5,406,Yes,No
+Blood Transfusion,PFN,5,62,No,No
+Blood Transfusion,PFN,5,363,No,No
+Blood Transfusion,PFN,5,542,No,Yes
+Blood Transfusion,PFN,5,669,No,No
+Blood Transfusion,PFN,5,670,No,No
+Blood Transfusion,PFN,5,206,No,No
+Blood Transfusion,PFN,5,236,No,No
+Blood Transfusion,PFN,5,473,No,No
+Blood Transfusion,PFN,5,296,Yes,Yes
+Blood Transfusion,PFN,5,309,No,No
+Blood Transfusion,PFN,5,373,No,Yes
+Blood Transfusion,PFN,5,480,No,No
+Blood Transfusion,PFN,5,180,No,No
+Blood Transfusion,PFN,5,101,No,No
+Blood Transfusion,PFN,5,51,No,No
+Blood Transfusion,PFN,5,685,No,Yes
+Blood Transfusion,PFN,5,407,Yes,No
+Blood Transfusion,PFN,5,4,No,No
+Blood Transfusion,PFN,5,622,No,No
+Blood Transfusion,PFN,5,734,No,No
+Blood Transfusion,PFN,5,453,No,No
+Blood Transfusion,PFN,5,220,No,No
+Blood Transfusion,PFN,5,230,No,No
+Blood Transfusion,PFN,5,440,Yes,No
+Blood Transfusion,PFN,5,708,No,No
+Blood Transfusion,PFN,5,514,No,No
+Blood Transfusion,PFN,5,69,No,No
+Blood Transfusion,PFN,5,105,No,No
+Blood Transfusion,PFN,5,599,No,No
+Blood Transfusion,PFN,5,443,Yes,No
+Blood Transfusion,PFN,5,740,No,Yes
+Blood Transfusion,PFN,5,385,Yes,No
+Blood Transfusion,PFN,5,12,No,No
+Blood Transfusion,PFN,5,444,Yes,No
+Blood Transfusion,PFN,5,388,No,No
+Blood Transfusion,PFN,5,156,No,No
+Blood Transfusion,PFN,5,414,Yes,No
+Blood Transfusion,PFN,5,543,No,No
+Blood Transfusion,PFN,5,305,No,No
+Blood Transfusion,PFN,5,99,No,Yes
+Blood Transfusion,PFN,5,381,Yes,No
+Blood Transfusion,PFN,5,422,No,No
+Blood Transfusion,PFN,5,624,Yes,Yes
+Blood Transfusion,PFN,5,352,No,Yes
+Blood Transfusion,PFN,5,342,No,Yes
+Blood Transfusion,PFN,5,339,Yes,No
+Blood Transfusion,PFN,5,136,Yes,Yes
+Blood Transfusion,PFN,5,27,No,No
+Blood Transfusion,PFN,5,200,No,No
+Blood Transfusion,PFN,5,129,No,No
+Blood Transfusion,PFN,5,550,No,No
+Blood Transfusion,PFN,5,33,No,No
+Blood Transfusion,PFN,5,194,Yes,No
+Blood Transfusion,PFN,5,404,No,No
+Blood Transfusion,PFN,5,386,Yes,No
+Blood Transfusion,PFN,5,465,No,No
+Blood Transfusion,PFN,5,184,No,No
+Blood Transfusion,PFN,5,48,No,Yes
+Blood Transfusion,PFN,5,376,Yes,No
+Blood Transfusion,PFN,5,179,No,No
+Blood Transfusion,PFN,5,637,Yes,Yes
+Blood Transfusion,PFN,5,715,No,No
+Blood Transfusion,PFN,5,400,No,No
+Blood Transfusion,PFN,5,319,No,No
+Blood Transfusion,PFN,5,733,No,Yes
+Blood Transfusion,PFN,5,211,No,No
+Blood Transfusion,PFN,5,456,No,No
+Blood Transfusion,PFN,5,548,No,No
+Blood Transfusion,PFN,5,350,Yes,Yes
+Blood Transfusion,PFN,5,329,Yes,Yes
+Blood Transfusion,PFN,5,346,No,No
+Blood Transfusion,PFN,5,167,Yes,Yes
+Blood Transfusion,PFN,5,559,Yes,Yes
+Blood Transfusion,PFN,5,560,No,No
+Blood Transfusion,PFN,5,316,Yes,No
+Blood Transfusion,PFN,5,529,No,No
+Blood Transfusion,PFN,5,324,No,No
+Blood Transfusion,PFN,5,0,No,No
+Blood Transfusion,PFN,5,541,Yes,No
+Blood Transfusion,PFN,5,10,No,No
+Blood Transfusion,PFN,5,215,No,No
+Blood Transfusion,PFN,5,464,No,Yes
+Blood Transfusion,PFN,5,29,No,No
+Blood Transfusion,PFN,5,553,Yes,Yes
+Blood Transfusion,PFN,5,281,Yes,Yes
+Blood Transfusion,PFN,5,442,No,No
+Blood Transfusion,PFN,5,345,Yes,No
+Blood Transfusion,PFN,5,671,No,No
+Blood Transfusion,PFN,5,426,No,No
+Blood Transfusion,PFN,5,736,No,No
+Blood Transfusion,PFN,5,695,No,Yes
+Blood Transfusion,PFN,5,561,No,No
+Blood Transfusion,PFN,5,297,Yes,No
+Blood Transfusion,PFN,5,424,Yes,No
+Blood Transfusion,PFN,5,673,No,No
+Blood Transfusion,PFN,5,371,No,No
+Blood Transfusion,PFN,5,474,No,No
+Blood Transfusion,PFN,5,578,Yes,No
+Blood Transfusion,PFN,5,506,Yes,No
+Blood Transfusion,PFN,5,109,No,No
+Blood Transfusion,PFN,5,583,No,Yes
+Blood Transfusion,PFN,5,320,No,No
+Blood Transfusion,PFN,5,527,No,No
+Blood Transfusion,PFN,5,75,No,No
+Blood Transfusion,PFN,5,275,No,No
+Blood Transfusion,PFN,5,243,No,Yes
+Blood Transfusion,PFN,5,392,No,Yes
+Blood Transfusion,PFN,5,418,No,No
+Blood Transfusion,PFN,5,632,No,Yes
+Blood Transfusion,PFN,5,148,No,No
+Blood Transfusion,PFN,5,686,No,No
+Blood Transfusion,PFN,5,341,No,No
+Blood Transfusion,PFN,5,280,No,No
+Blood Transfusion,PFN,5,515,No,No
+Blood Transfusion,PFN,5,432,No,No
+Blood Transfusion,PFN,5,600,Yes,No
+Blood Transfusion,PFN,5,592,Yes,No
+Blood Transfusion,PFN,5,338,Yes,No
+Blood Transfusion,PFN,5,692,Yes,No
+Blood Transfusion,PFN,5,222,No,Yes
+Blood Transfusion,PFN,5,137,No,No
+Blood Transfusion,PFN,5,108,No,No
+Blood Transfusion,PFN,5,251,No,No
+Blood Transfusion,PFN,5,709,Yes,No
+Blood Transfusion,PFN,5,638,Yes,No
+Blood Transfusion,PFN,5,655,No,No
+Blood Transfusion,PFN,5,248,No,No
+Blood Transfusion,PFN,5,369,No,No
+Blood Transfusion,PFN,5,37,No,No
+Blood Transfusion,PFN,5,596,No,No
+Blood Transfusion,PFN,5,410,Yes,Yes
+Blood Transfusion,PFN,5,368,No,No
+Blood Transfusion,PFN,5,82,No,No
+Blood Transfusion,PFN,5,157,No,No
+Blood Transfusion,PFN,5,476,No,No
+Blood Transfusion,PFN,5,479,No,No
+Blood Transfusion,PFN,5,728,No,Yes
+Blood Transfusion,PFN,5,22,No,No
+Blood Transfusion,PFN,5,530,No,No
+Blood Transfusion,PFN,5,531,Yes,No
+Blood Transfusion,PFN,5,716,No,No
+Blood Transfusion,PFN,5,237,No,No
+Blood Transfusion,PFN,5,332,No,No
+Blood Transfusion,PFN,5,154,No,Yes
+Blood Transfusion,PFN,5,183,No,No
+Blood Transfusion,PFN,5,696,No,No
+Blood Transfusion,PFN,5,569,No,No
+Blood Transfusion,PFN,5,120,Yes,No
+Blood Transfusion,PFN,5,499,No,Yes
+Blood Transfusion,PFN,5,631,No,Yes
+Blood Transfusion,PFN,5,356,No,No
+Blood Transfusion,PFN,5,635,No,No
+Blood Transfusion,PFN,5,57,No,No
+Blood Transfusion,PFN,5,90,No,No
+Blood Transfusion,PFN,5,151,Yes,Yes
+Blood Transfusion,PFN,5,50,Yes,No
+Diabetes,PFN,5,606,No,No
+Diabetes,PFN,5,621,No,No
+Diabetes,PFN,5,672,Yes,No
+Diabetes,PFN,5,183,Yes,Yes
+Diabetes,PFN,5,516,No,No
+Diabetes,PFN,5,75,No,Yes
+Diabetes,PFN,5,586,Yes,Yes
+Diabetes,PFN,5,502,No,Yes
+Diabetes,PFN,5,685,No,Yes
+Diabetes,PFN,5,90,No,No
+Diabetes,PFN,5,305,No,No
+Diabetes,PFN,5,764,No,No
+Diabetes,PFN,5,587,Yes,Yes
+Diabetes,PFN,5,404,No,No
+Diabetes,PFN,5,372,Yes,Yes
+Diabetes,PFN,5,271,No,No
+Diabetes,PFN,5,521,No,Yes
+Diabetes,PFN,5,633,No,No
+Diabetes,PFN,5,390,Yes,No
+Diabetes,PFN,5,44,No,No
+Diabetes,PFN,5,124,No,No
+Diabetes,PFN,5,199,Yes,Yes
+Diabetes,PFN,5,403,Yes,No
+Diabetes,PFN,5,203,No,No
+Diabetes,PFN,5,231,No,No
+Diabetes,PFN,5,490,No,No
+Diabetes,PFN,5,405,No,Yes
+Diabetes,PFN,5,406,No,No
+Diabetes,PFN,5,520,Yes,Yes
+Diabetes,PFN,5,261,Yes,Yes
+Diabetes,PFN,5,282,Yes,No
+Diabetes,PFN,5,265,No,No
+Diabetes,PFN,5,643,No,No
+Diabetes,PFN,5,744,No,No
+Diabetes,PFN,5,351,Yes,No
+Diabetes,PFN,5,273,Yes,No
+Diabetes,PFN,5,689,No,No
+Diabetes,PFN,5,669,No,No
+Diabetes,PFN,5,228,No,No
+Diabetes,PFN,5,709,No,No
+Diabetes,PFN,5,310,No,No
+Diabetes,PFN,5,499,No,No
+Diabetes,PFN,5,266,No,No
+Diabetes,PFN,5,148,No,No
+Diabetes,PFN,5,725,Yes,No
+Diabetes,PFN,5,589,Yes,No
+Diabetes,PFN,5,500,Yes,Yes
+Diabetes,PFN,5,43,Yes,No
+Diabetes,PFN,5,596,No,No
+Diabetes,PFN,5,565,No,No
+Diabetes,PFN,5,423,No,No
+Diabetes,PFN,5,713,No,No
+Diabetes,PFN,5,34,No,Yes
+Diabetes,PFN,5,650,No,No
+Diabetes,PFN,5,13,No,Yes
+Diabetes,PFN,5,57,No,No
+Diabetes,PFN,5,443,No,No
+Diabetes,PFN,5,154,No,No
+Diabetes,PFN,5,551,No,Yes
+Diabetes,PFN,5,698,No,No
+Diabetes,PFN,5,147,No,No
+Diabetes,PFN,5,61,No,No
+Diabetes,PFN,5,60,Yes,No
+Diabetes,PFN,5,564,No,No
+Diabetes,PFN,5,204,No,Yes
+Diabetes,PFN,5,427,Yes,Yes
+Diabetes,PFN,5,281,Yes,Yes
+Diabetes,PFN,5,9,No,No
+Diabetes,PFN,5,74,No,No
+Diabetes,PFN,5,295,No,No
+Diabetes,PFN,5,200,No,No
+Diabetes,PFN,5,388,No,No
+Diabetes,PFN,5,283,Yes,Yes
+Diabetes,PFN,5,247,No,No
+Diabetes,PFN,5,742,Yes,No
+Diabetes,PFN,5,314,No,No
+Diabetes,PFN,5,317,No,No
+Diabetes,PFN,5,268,No,No
+Diabetes,PFN,5,138,Yes,Yes
+Diabetes,PFN,5,239,Yes,Yes
+Diabetes,PFN,5,575,No,No
+Diabetes,PFN,5,139,No,No
+Diabetes,PFN,5,446,No,No
+Diabetes,PFN,5,106,No,No
+Diabetes,PFN,5,535,Yes,Yes
+Diabetes,PFN,5,705,No,No
+Diabetes,PFN,5,724,No,No
+Diabetes,PFN,5,193,No,No
+Diabetes,PFN,5,562,No,No
+Diabetes,PFN,5,469,Yes,No
+Diabetes,PFN,5,714,Yes,Yes
+Diabetes,PFN,5,249,No,No
+Diabetes,PFN,5,189,No,Yes
+Diabetes,PFN,5,208,Yes,Yes
+Diabetes,PFN,5,209,Yes,No
+Diabetes,PFN,5,262,No,No
+Diabetes,PFN,5,66,No,No
+Diabetes,PFN,5,40,No,No
+Diabetes,PFN,5,77,No,No
+Diabetes,PFN,5,377,No,No
+Diabetes,PFN,5,677,No,No
+Diabetes,PFN,5,703,No,No
+Diabetes,PFN,5,585,Yes,No
+Diabetes,PFN,5,568,Yes,No
+Diabetes,PFN,5,576,No,Yes
+Diabetes,PFN,5,297,Yes,No
+Diabetes,PFN,5,663,No,No
+Diabetes,PFN,5,547,No,No
+Diabetes,PFN,5,737,No,No
+Diabetes,PFN,5,129,No,No
+Diabetes,PFN,5,421,Yes,No
+Diabetes,PFN,5,696,No,No
+Diabetes,PFN,5,729,Yes,No
+Diabetes,PFN,5,259,No,No
+Diabetes,PFN,5,517,No,No
+Diabetes,PFN,5,472,Yes,Yes
+Diabetes,PFN,5,50,No,No
+Diabetes,PFN,5,526,Yes,Yes
+Diabetes,PFN,5,468,No,No
+Diabetes,PFN,5,452,No,No
+Diabetes,PFN,5,395,Yes,Yes
+Diabetes,PFN,5,332,No,No
+Diabetes,PFN,5,543,Yes,Yes
+Diabetes,PFN,5,277,Yes,No
+Diabetes,PFN,5,353,Yes,Yes
+Diabetes,PFN,5,343,Yes,Yes
+Diabetes,PFN,5,563,Yes,Yes
+Diabetes,PFN,5,292,Yes,Yes
+Diabetes,PFN,5,387,No,No
+Diabetes,PFN,5,289,No,Yes
+Diabetes,PFN,5,755,Yes,Yes
+Diabetes,PFN,5,68,No,No
+Diabetes,PFN,5,682,Yes,No
+Diabetes,PFN,5,708,Yes,No
+Diabetes,PFN,5,304,No,No
+Diabetes,PFN,5,475,Yes,No
+Diabetes,PFN,5,286,Yes,No
+Diabetes,PFN,5,226,Yes,Yes
+Diabetes,PFN,5,135,No,Yes
+Diabetes,PFN,5,316,Yes,Yes
+Diabetes,PFN,5,637,No,No
+Diabetes,PFN,5,382,Yes,Yes
+Diabetes,PFN,5,437,No,No
+Diabetes,PFN,5,301,Yes,Yes
+Diabetes,PFN,5,721,Yes,Yes
+Diabetes,PFN,5,592,No,No
+Diabetes,PFN,5,412,No,Yes
+Diabetes,PFN,5,410,Yes,No
+Diabetes,PFN,5,687,No,No
+Diabetes,PFN,5,417,No,No
+Diabetes,PFN,5,340,Yes,No
+Diabetes,PFN,5,171,Yes,No
+Diabetes,PFN,5,131,Yes,Yes
+Diabetes,PFN,5,278,No,No
+Diabetes,PFN,5,572,No,No
+Diabetes,PFN,5,49,No,Yes
+Diabetes,PFN,5,640,Yes,Yes
+Diabetes,PFN,5,659,Yes,No
+Diabetes,PFN,5,485,Yes,Yes
+Diabetes,PFN,5,718,No,No
+Diabetes,PFN,5,486,Yes,No
+Diabetes,PFN,5,62,No,Yes
+Diabetes,PFN,5,567,No,No
+Diabetes,PFN,5,89,No,No
+Diabetes,PFN,5,149,Yes,Yes
+Diabetes,PFN,5,550,No,No
+Diabetes,PFN,5,275,No,No
+Diabetes,PFN,5,221,No,No
+Diabetes,PFN,5,180,No,No
+Diabetes,PFN,5,684,Yes,Yes
+Diabetes,PFN,5,518,No,No
+Diabetes,PFN,5,186,No,No
+Diabetes,PFN,5,143,No,No
+Diabetes,PFN,5,539,No,No
+Diabetes,PFN,5,657,No,No
+Diabetes,PFN,5,111,No,No
+Diabetes,PFN,5,140,No,No
+Diabetes,PFN,5,73,Yes,No
+Diabetes,PFN,5,584,Yes,Yes
+Diabetes,PFN,5,736,Yes,No
+Diabetes,PFN,5,602,Yes,Yes
+Diabetes,PFN,5,504,Yes,Yes
+Diabetes,PFN,5,428,No,No
+Diabetes,PFN,5,451,Yes,No
+Diabetes,PFN,5,197,No,No
+Diabetes,PFN,5,398,No,Yes
+Diabetes,PFN,5,614,No,No
+Diabetes,PFN,5,597,No,No
+Diabetes,PFN,5,109,Yes,Yes
+Diabetes,PFN,5,463,Yes,No
+Diabetes,PFN,5,0,No,No
+Diabetes,PFN,5,82,No,No
+Diabetes,PFN,5,366,No,No
+Diabetes,PFN,5,342,No,No
+Diabetes,PFN,5,133,Yes,No
+Diabetes,PFN,5,95,No,No
+Diabetes,PFN,5,450,Yes,No
+Diabetes,PFN,5,93,Yes,No
+Diabetes,PFN,5,740,No,No
+Diabetes,PFN,5,607,No,No
+Diabetes,PFN,5,365,No,No
+Diabetes,PFN,5,105,No,No
+Diabetes,PFN,5,712,No,No
+Diabetes,PFN,5,184,Yes,No
+Diabetes,PFN,5,303,No,No
+Diabetes,PFN,5,739,No,No
+Diabetes,PFN,5,324,Yes,No
+Diabetes,PFN,5,288,No,No
+Diabetes,PFN,5,503,No,Yes
+Diabetes,PFN,5,164,No,No
+Diabetes,PFN,5,182,No,Yes
+Diabetes,PFN,5,364,No,No
+Diabetes,PFN,5,291,No,No
+Diabetes,PFN,5,445,No,No
+Diabetes,PFN,5,65,No,Yes
+Diabetes,PFN,5,745,No,No
+Diabetes,PFN,5,711,No,No
+Diabetes,PFN,5,482,Yes,No
+Diabetes,PFN,5,457,Yes,Yes
+Diabetes,PFN,5,312,Yes,Yes
+Diabetes,PFN,5,605,No,No
+Diabetes,PFN,5,153,No,No
+Diabetes,PFN,5,522,No,No
+Diabetes,PFN,5,471,No,Yes
+Diabetes,PFN,5,225,No,Yes
+Diabetes,PFN,5,678,No,Yes
+Diabetes,PFN,5,19,Yes,No
+Diabetes,PFN,5,527,No,No
+Diabetes,PFN,5,255,No,Yes
+Diabetes,PFN,5,28,Yes,No
+Diabetes,PFN,5,680,No,No
+Maternal Health Risk,PFN,5,964,high risk,high risk
+Maternal Health Risk,PFN,5,535,mid risk,mid risk
+Maternal Health Risk,PFN,5,691,mid risk,mid risk
+Maternal Health Risk,PFN,5,71,low risk,mid risk
+Maternal Health Risk,PFN,5,820,low risk,low risk
+Maternal Health Risk,PFN,5,16,low risk,low risk
+Maternal Health Risk,PFN,5,602,high risk,high risk
+Maternal Health Risk,PFN,5,695,high risk,high risk
+Maternal Health Risk,PFN,5,291,mid risk,low risk
+Maternal Health Risk,PFN,5,739,high risk,high risk
+Maternal Health Risk,PFN,5,923,high risk,high risk
+Maternal Health Risk,PFN,5,527,low risk,high risk
+Maternal Health Risk,PFN,5,832,low risk,low risk
+Maternal Health Risk,PFN,5,416,low risk,low risk
+Maternal Health Risk,PFN,5,881,low risk,low risk
+Maternal Health Risk,PFN,5,740,low risk,low risk
+Maternal Health Risk,PFN,5,374,low risk,low risk
+Maternal Health Risk,PFN,5,785,high risk,high risk
+Maternal Health Risk,PFN,5,561,low risk,low risk
+Maternal Health Risk,PFN,5,103,mid risk,mid risk
+Maternal Health Risk,PFN,5,385,mid risk,mid risk
+Maternal Health Risk,PFN,5,685,mid risk,mid risk
+Maternal Health Risk,PFN,5,506,low risk,low risk
+Maternal Health Risk,PFN,5,140,low risk,low risk
+Maternal Health Risk,PFN,5,501,high risk,high risk
+Maternal Health Risk,PFN,5,689,high risk,high risk
+Maternal Health Risk,PFN,5,882,mid risk,mid risk
+Maternal Health Risk,PFN,5,715,mid risk,low risk
+Maternal Health Risk,PFN,5,359,mid risk,mid risk
+Maternal Health Risk,PFN,5,116,high risk,high risk
+Maternal Health Risk,PFN,5,348,mid risk,mid risk
+Maternal Health Risk,PFN,5,454,mid risk,mid risk
+Maternal Health Risk,PFN,5,654,mid risk,mid risk
+Maternal Health Risk,PFN,5,576,mid risk,low risk
+Maternal Health Risk,PFN,5,95,low risk,low risk
+Maternal Health Risk,PFN,5,906,low risk,low risk
+Maternal Health Risk,PFN,5,466,high risk,high risk
+Maternal Health Risk,PFN,5,38,low risk,mid risk
+Maternal Health Risk,PFN,5,376,high risk,high risk
+Maternal Health Risk,PFN,5,176,low risk,low risk
+Maternal Health Risk,PFN,5,121,low risk,low risk
+Maternal Health Risk,PFN,5,486,mid risk,low risk
+Maternal Health Risk,PFN,5,53,mid risk,mid risk
+Maternal Health Risk,PFN,5,664,high risk,high risk
+Maternal Health Risk,PFN,5,698,low risk,low risk
+Maternal Health Risk,PFN,5,627,low risk,mid risk
+Maternal Health Risk,PFN,5,850,low risk,low risk
+Maternal Health Risk,PFN,5,655,low risk,low risk
+Maternal Health Risk,PFN,5,33,mid risk,low risk
+Maternal Health Risk,PFN,5,125,mid risk,low risk
+Maternal Health Risk,PFN,5,361,low risk,low risk
+Maternal Health Risk,PFN,5,154,low risk,low risk
+Maternal Health Risk,PFN,5,861,mid risk,mid risk
+Maternal Health Risk,PFN,5,346,high risk,high risk
+Maternal Health Risk,PFN,5,831,low risk,low risk
+Maternal Health Risk,PFN,5,1001,high risk,high risk
+Maternal Health Risk,PFN,5,264,low risk,low risk
+Maternal Health Risk,PFN,5,516,mid risk,mid risk
+Maternal Health Risk,PFN,5,529,mid risk,mid risk
+Maternal Health Risk,PFN,5,450,high risk,high risk
+Maternal Health Risk,PFN,5,436,high risk,high risk
+Maternal Health Risk,PFN,5,724,low risk,low risk
+Maternal Health Risk,PFN,5,413,mid risk,mid risk
+Maternal Health Risk,PFN,5,195,low risk,low risk
+Maternal Health Risk,PFN,5,32,mid risk,mid risk
+Maternal Health Risk,PFN,5,976,mid risk,mid risk
+Maternal Health Risk,PFN,5,120,low risk,low risk
+Maternal Health Risk,PFN,5,629,mid risk,mid risk
+Maternal Health Risk,PFN,5,152,mid risk,mid risk
+Maternal Health Risk,PFN,5,333,mid risk,mid risk
+Maternal Health Risk,PFN,5,960,low risk,mid risk
+Maternal Health Risk,PFN,5,225,mid risk,mid risk
+Maternal Health Risk,PFN,5,709,low risk,low risk
+Maternal Health Risk,PFN,5,115,high risk,high risk
+Maternal Health Risk,PFN,5,919,low risk,low risk
+Maternal Health Risk,PFN,5,727,mid risk,low risk
+Maternal Health Risk,PFN,5,336,low risk,low risk
+Maternal Health Risk,PFN,5,34,low risk,low risk
+Maternal Health Risk,PFN,5,895,mid risk,low risk
+Maternal Health Risk,PFN,5,300,low risk,low risk
+Maternal Health Risk,PFN,5,988,high risk,high risk
+Maternal Health Risk,PFN,5,750,low risk,low risk
+Maternal Health Risk,PFN,5,369,mid risk,mid risk
+Maternal Health Risk,PFN,5,201,low risk,mid risk
+Maternal Health Risk,PFN,5,635,mid risk,mid risk
+Maternal Health Risk,PFN,5,617,low risk,low risk
+Maternal Health Risk,PFN,5,1012,low risk,low risk
+Maternal Health Risk,PFN,5,879,mid risk,low risk
+Maternal Health Risk,PFN,5,481,low risk,low risk
+Maternal Health Risk,PFN,5,408,low risk,low risk
+Maternal Health Risk,PFN,5,161,low risk,low risk
+Maternal Health Risk,PFN,5,939,high risk,high risk
+Maternal Health Risk,PFN,5,391,low risk,low risk
+Maternal Health Risk,PFN,5,780,mid risk,low risk
+Maternal Health Risk,PFN,5,932,mid risk,mid risk
+Maternal Health Risk,PFN,5,313,low risk,low risk
+Maternal Health Risk,PFN,5,268,mid risk,mid risk
+Maternal Health Risk,PFN,5,700,low risk,low risk
+Maternal Health Risk,PFN,5,871,low risk,low risk
+Maternal Health Risk,PFN,5,395,high risk,high risk
+Maternal Health Risk,PFN,5,965,low risk,low risk
+Maternal Health Risk,PFN,5,846,low risk,high risk
+Maternal Health Risk,PFN,5,559,high risk,high risk
+Maternal Health Risk,PFN,5,488,high risk,mid risk
+Maternal Health Risk,PFN,5,281,mid risk,mid risk
+Maternal Health Risk,PFN,5,520,low risk,low risk
+Maternal Health Risk,PFN,5,1007,mid risk,mid risk
+Maternal Health Risk,PFN,5,1003,mid risk,mid risk
+Maternal Health Risk,PFN,5,0,mid risk,mid risk
+Maternal Health Risk,PFN,5,925,low risk,low risk
+Maternal Health Risk,PFN,5,875,high risk,high risk
+Maternal Health Risk,PFN,5,196,mid risk,mid risk
+Maternal Health Risk,PFN,5,156,mid risk,mid risk
+Maternal Health Risk,PFN,5,701,high risk,high risk
+Maternal Health Risk,PFN,5,874,low risk,mid risk
+Maternal Health Risk,PFN,5,278,low risk,low risk
+Maternal Health Risk,PFN,5,549,high risk,low risk
+Maternal Health Risk,PFN,5,822,mid risk,low risk
+Maternal Health Risk,PFN,5,610,high risk,low risk
+Maternal Health Risk,PFN,5,396,mid risk,mid risk
+Maternal Health Risk,PFN,5,934,low risk,low risk
+Maternal Health Risk,PFN,5,215,low risk,low risk
+Maternal Health Risk,PFN,5,679,low risk,low risk
+Maternal Health Risk,PFN,5,547,high risk,high risk
+Maternal Health Risk,PFN,5,913,low risk,low risk
+Maternal Health Risk,PFN,5,503,high risk,high risk
+Maternal Health Risk,PFN,5,599,high risk,high risk
+Maternal Health Risk,PFN,5,455,mid risk,mid risk
+Maternal Health Risk,PFN,5,800,mid risk,mid risk
+Maternal Health Risk,PFN,5,791,low risk,low risk
+Maternal Health Risk,PFN,5,142,low risk,low risk
+Maternal Health Risk,PFN,5,266,low risk,low risk
+Maternal Health Risk,PFN,5,792,mid risk,mid risk
+Maternal Health Risk,PFN,5,70,low risk,low risk
+Maternal Health Risk,PFN,5,833,high risk,high risk
+Maternal Health Risk,PFN,5,17,low risk,low risk
+Maternal Health Risk,PFN,5,60,high risk,high risk
+Maternal Health Risk,PFN,5,98,low risk,high risk
+Maternal Health Risk,PFN,5,536,high risk,high risk
+Maternal Health Risk,PFN,5,61,low risk,low risk
+Maternal Health Risk,PFN,5,905,high risk,high risk
+Maternal Health Risk,PFN,5,420,mid risk,mid risk
+Maternal Health Risk,PFN,5,249,high risk,high risk
+Maternal Health Risk,PFN,5,297,mid risk,mid risk
+Maternal Health Risk,PFN,5,933,low risk,mid risk
+Maternal Health Risk,PFN,5,970,high risk,high risk
+Maternal Health Risk,PFN,5,828,low risk,low risk
+Maternal Health Risk,PFN,5,618,mid risk,mid risk
+Maternal Health Risk,PFN,5,673,mid risk,low risk
+Maternal Health Risk,PFN,5,847,high risk,high risk
+Maternal Health Risk,PFN,5,227,low risk,low risk
+Maternal Health Risk,PFN,5,637,high risk,low risk
+Maternal Health Risk,PFN,5,307,mid risk,mid risk
+Maternal Health Risk,PFN,5,283,low risk,low risk
+Maternal Health Risk,PFN,5,304,mid risk,mid risk
+Maternal Health Risk,PFN,5,334,low risk,low risk
+Maternal Health Risk,PFN,5,293,low risk,low risk
+Maternal Health Risk,PFN,5,889,low risk,mid risk
+Maternal Health Risk,PFN,5,380,low risk,low risk
+Maternal Health Risk,PFN,5,1005,low risk,low risk
+Maternal Health Risk,PFN,5,345,low risk,low risk
+Maternal Health Risk,PFN,5,109,high risk,low risk
+Maternal Health Risk,PFN,5,119,high risk,high risk
+Maternal Health Risk,PFN,5,440,high risk,high risk
+Maternal Health Risk,PFN,5,415,low risk,low risk
+Maternal Health Risk,PFN,5,841,low risk,low risk
+Maternal Health Risk,PFN,5,464,mid risk,mid risk
+Maternal Health Risk,PFN,5,723,high risk,high risk
+Maternal Health Risk,PFN,5,766,low risk,mid risk
+Maternal Health Risk,PFN,5,915,mid risk,mid risk
+Maternal Health Risk,PFN,5,341,mid risk,mid risk
+Maternal Health Risk,PFN,5,445,mid risk,mid risk
+Maternal Health Risk,PFN,5,759,high risk,high risk
+Maternal Health Risk,PFN,5,86,high risk,high risk
+Maternal Health Risk,PFN,5,837,mid risk,mid risk
+Maternal Health Risk,PFN,5,733,mid risk,mid risk
+Maternal Health Risk,PFN,5,711,low risk,low risk
+Maternal Health Risk,PFN,5,113,mid risk,mid risk
+Maternal Health Risk,PFN,5,433,mid risk,mid risk
+Maternal Health Risk,PFN,5,604,high risk,high risk
+Maternal Health Risk,PFN,5,796,low risk,low risk
+Maternal Health Risk,PFN,5,108,high risk,high risk
+Maternal Health Risk,PFN,5,151,mid risk,mid risk
+Maternal Health Risk,PFN,5,658,mid risk,high risk
+Maternal Health Risk,PFN,5,327,high risk,high risk
+Maternal Health Risk,PFN,5,704,mid risk,mid risk
+Maternal Health Risk,PFN,5,163,high risk,high risk
+Maternal Health Risk,PFN,5,126,mid risk,high risk
+Maternal Health Risk,PFN,5,767,mid risk,low risk
+Maternal Health Risk,PFN,5,573,mid risk,low risk
+Maternal Health Risk,PFN,5,848,low risk,low risk
+Maternal Health Risk,PFN,5,751,low risk,low risk
+Maternal Health Risk,PFN,5,814,mid risk,mid risk
+Maternal Health Risk,PFN,5,355,high risk,high risk
+Maternal Health Risk,PFN,5,365,low risk,low risk
+Maternal Health Risk,PFN,5,218,mid risk,mid risk
+Maternal Health Risk,PFN,5,261,mid risk,mid risk
+Maternal Health Risk,PFN,5,470,mid risk,mid risk
+Maternal Health Risk,PFN,5,427,low risk,low risk
+Maternal Health Risk,PFN,5,558,low risk,low risk
+Maternal Health Risk,PFN,5,623,high risk,mid risk
+Maternal Health Risk,PFN,5,100,mid risk,mid risk
+Maternal Health Risk,PFN,5,768,mid risk,low risk
+Maternal Health Risk,PFN,5,9,low risk,low risk
+Maternal Health Risk,PFN,5,102,high risk,high risk
+Maternal Health Risk,PFN,5,808,low risk,low risk
+Maternal Health Risk,PFN,5,234,low risk,low risk
+Maternal Health Risk,PFN,5,460,high risk,high risk
+Maternal Health Risk,PFN,5,439,low risk,low risk
+Maternal Health Risk,PFN,5,793,low risk,mid risk
+Maternal Health Risk,PFN,5,192,mid risk,mid risk
+Maternal Health Risk,PFN,5,360,low risk,low risk
+Maternal Health Risk,PFN,5,720,high risk,high risk
+Maternal Health Risk,PFN,5,564,low risk,low risk
+Maternal Health Risk,PFN,5,620,high risk,high risk
+Maternal Health Risk,PFN,5,123,mid risk,low risk
+Maternal Health Risk,PFN,5,920,low risk,low risk
+Maternal Health Risk,PFN,5,748,low risk,low risk
+Maternal Health Risk,PFN,5,217,low risk,low risk
+Maternal Health Risk,PFN,5,802,low risk,low risk
+Maternal Health Risk,PFN,5,888,low risk,low risk
+Maternal Health Risk,PFN,5,489,low risk,low risk
+Maternal Health Risk,PFN,5,784,high risk,mid risk
+Maternal Health Risk,PFN,5,747,low risk,low risk
+Maternal Health Risk,PFN,5,153,low risk,low risk
+Maternal Health Risk,PFN,5,397,low risk,low risk
+Maternal Health Risk,PFN,5,158,low risk,mid risk
+Maternal Health Risk,PFN,5,891,low risk,low risk
+Maternal Health Risk,PFN,5,350,low risk,low risk
+Maternal Health Risk,PFN,5,409,low risk,low risk
+Maternal Health Risk,PFN,5,526,low risk,low risk
+Maternal Health Risk,PFN,5,65,low risk,low risk
+Maternal Health Risk,PFN,5,457,mid risk,mid risk
+Maternal Health Risk,PFN,5,916,low risk,low risk
+Maternal Health Risk,PFN,5,157,low risk,low risk
+Maternal Health Risk,PFN,5,430,mid risk,mid risk
+Maternal Health Risk,PFN,5,708,low risk,low risk
+Maternal Health Risk,PFN,5,589,low risk,mid risk
+Maternal Health Risk,PFN,5,208,mid risk,low risk
+Maternal Health Risk,PFN,5,236,low risk,low risk
+Maternal Health Risk,PFN,5,943,low risk,low risk
+Maternal Health Risk,PFN,5,705,mid risk,low risk
+Maternal Health Risk,PFN,5,956,high risk,high risk
+Maternal Health Risk,PFN,5,471,mid risk,mid risk
+Maternal Health Risk,PFN,5,624,high risk,high risk
+Maternal Health Risk,PFN,5,289,mid risk,mid risk
+Maternal Health Risk,PFN,5,344,high risk,high risk
+Maternal Health Risk,PFN,5,187,mid risk,mid risk
+Maternal Health Risk,PFN,5,285,high risk,high risk
+Maternal Health Risk,PFN,5,472,low risk,low risk
+German Credit,PFN,5,934,bad,good
+German Credit,PFN,5,133,good,bad
+German Credit,PFN,5,910,good,good
+German Credit,PFN,5,655,good,good
+German Credit,PFN,5,99,bad,good
+German Credit,PFN,5,661,good,good
+German Credit,PFN,5,440,good,good
+German Credit,PFN,5,446,bad,good
+German Credit,PFN,5,492,good,good
+German Credit,PFN,5,639,bad,good
+German Credit,PFN,5,744,good,good
+German Credit,PFN,5,890,good,good
+German Credit,PFN,5,487,good,good
+German Credit,PFN,5,466,good,good
+German Credit,PFN,5,712,good,good
+German Credit,PFN,5,774,good,good
+German Credit,PFN,5,902,good,good
+German Credit,PFN,5,154,good,good
+German Credit,PFN,5,637,good,bad
+German Credit,PFN,5,936,good,good
+German Credit,PFN,5,869,bad,good
+German Credit,PFN,5,298,good,bad
+German Credit,PFN,5,536,good,good
+German Credit,PFN,5,493,good,good
+German Credit,PFN,5,625,good,good
+German Credit,PFN,5,669,bad,bad
+German Credit,PFN,5,620,good,good
+German Credit,PFN,5,666,good,good
+German Credit,PFN,5,177,good,good
+German Credit,PFN,5,390,good,good
+German Credit,PFN,5,326,good,good
+German Credit,PFN,5,290,bad,good
+German Credit,PFN,5,350,bad,good
+German Credit,PFN,5,599,good,good
+German Credit,PFN,5,618,good,bad
+German Credit,PFN,5,862,good,good
+German Credit,PFN,5,678,good,good
+German Credit,PFN,5,271,bad,good
+German Credit,PFN,5,519,good,good
+German Credit,PFN,5,582,bad,bad
+German Credit,PFN,5,994,good,good
+German Credit,PFN,5,353,good,good
+German Credit,PFN,5,592,good,good
+German Credit,PFN,5,42,good,bad
+German Credit,PFN,5,803,good,good
+German Credit,PFN,5,692,good,good
+German Credit,PFN,5,35,good,bad
+German Credit,PFN,5,59,good,good
+German Credit,PFN,5,987,good,good
+German Credit,PFN,5,1,good,good
+German Credit,PFN,5,127,good,good
+German Credit,PFN,5,844,good,good
+German Credit,PFN,5,629,good,good
+German Credit,PFN,5,808,good,good
+German Credit,PFN,5,131,bad,good
+German Credit,PFN,5,367,good,good
+German Credit,PFN,5,632,good,good
+German Credit,PFN,5,825,good,good
+German Credit,PFN,5,110,bad,bad
+German Credit,PFN,5,454,good,good
+German Credit,PFN,5,278,good,good
+German Credit,PFN,5,216,good,good
+German Credit,PFN,5,87,bad,bad
+German Credit,PFN,5,957,good,good
+German Credit,PFN,5,916,good,good
+German Credit,PFN,5,464,good,good
+German Credit,PFN,5,336,bad,bad
+German Credit,PFN,5,252,bad,bad
+German Credit,PFN,5,270,good,good
+German Credit,PFN,5,245,good,good
+German Credit,PFN,5,605,good,good
+German Credit,PFN,5,238,bad,good
+German Credit,PFN,5,161,good,good
+German Credit,PFN,5,673,good,good
+German Credit,PFN,5,940,bad,good
+German Credit,PFN,5,232,good,good
+German Credit,PFN,5,771,good,good
+German Credit,PFN,5,321,good,good
+German Credit,PFN,5,77,good,good
+German Credit,PFN,5,783,good,good
+German Credit,PFN,5,575,bad,bad
+German Credit,PFN,5,23,good,good
+German Credit,PFN,5,561,good,good
+German Credit,PFN,5,576,good,bad
+German Credit,PFN,5,413,good,good
+German Credit,PFN,5,525,good,good
+German Credit,PFN,5,426,good,good
+German Credit,PFN,5,872,good,good
+German Credit,PFN,5,533,good,good
+German Credit,PFN,5,456,bad,good
+German Credit,PFN,5,571,bad,good
+German Credit,PFN,5,358,good,good
+German Credit,PFN,5,11,bad,bad
+German Credit,PFN,5,142,bad,bad
+German Credit,PFN,5,188,good,good
+German Credit,PFN,5,642,bad,good
+German Credit,PFN,5,646,good,good
+German Credit,PFN,5,685,good,good
+German Credit,PFN,5,70,good,good
+German Credit,PFN,5,793,good,good
+German Credit,PFN,5,665,bad,bad
+German Credit,PFN,5,47,bad,good
+German Credit,PFN,5,502,good,good
+German Credit,PFN,5,821,good,good
+German Credit,PFN,5,103,good,good
+German Credit,PFN,5,281,good,good
+German Credit,PFN,5,601,bad,good
+German Credit,PFN,5,559,bad,bad
+German Credit,PFN,5,565,bad,bad
+German Credit,PFN,5,924,good,good
+German Credit,PFN,5,738,good,good
+German Credit,PFN,5,981,good,good
+German Credit,PFN,5,644,bad,bad
+German Credit,PFN,5,500,good,good
+German Credit,PFN,5,191,good,good
+German Credit,PFN,5,84,good,good
+German Credit,PFN,5,328,bad,good
+German Credit,PFN,5,911,bad,bad
+German Credit,PFN,5,568,good,good
+German Credit,PFN,5,483,good,good
+German Credit,PFN,5,473,bad,good
+German Credit,PFN,5,630,bad,good
+German Credit,PFN,5,956,bad,bad
+German Credit,PFN,5,458,bad,bad
+German Credit,PFN,5,921,good,good
+German Credit,PFN,5,459,bad,good
+German Credit,PFN,5,697,good,good
+German Credit,PFN,5,329,good,good
+German Credit,PFN,5,842,good,good
+German Credit,PFN,5,411,good,good
+German Credit,PFN,5,647,bad,good
+German Credit,PFN,5,212,bad,bad
+German Credit,PFN,5,961,good,good
+German Credit,PFN,5,222,good,good
+German Credit,PFN,5,128,good,good
+German Credit,PFN,5,883,good,good
+German Credit,PFN,5,171,good,good
+German Credit,PFN,5,38,good,good
+German Credit,PFN,5,909,good,good
+German Credit,PFN,5,286,bad,bad
+German Credit,PFN,5,535,good,bad
+German Credit,PFN,5,480,bad,good
+German Credit,PFN,5,304,good,good
+German Credit,PFN,5,837,good,good
+German Credit,PFN,5,314,good,good
+German Credit,PFN,5,109,bad,bad
+German Credit,PFN,5,5,good,good
+German Credit,PFN,5,21,bad,good
+German Credit,PFN,5,214,good,good
+German Credit,PFN,5,371,good,good
+German Credit,PFN,5,417,bad,good
+German Credit,PFN,5,194,bad,good
+German Credit,PFN,5,999,good,good
+German Credit,PFN,5,395,bad,good
+German Credit,PFN,5,137,good,good
+German Credit,PFN,5,198,good,good
+German Credit,PFN,5,760,good,good
+German Credit,PFN,5,297,good,bad
+German Credit,PFN,5,82,good,good
+German Credit,PFN,5,218,good,good
+German Credit,PFN,5,877,bad,good
+German Credit,PFN,5,875,good,good
+German Credit,PFN,5,613,good,good
+German Credit,PFN,5,152,good,good
+German Credit,PFN,5,72,good,good
+German Credit,PFN,5,277,bad,good
+German Credit,PFN,5,859,good,good
+German Credit,PFN,5,453,good,good
+German Credit,PFN,5,425,good,good
+German Credit,PFN,5,534,good,good
+German Credit,PFN,5,294,good,good
+German Credit,PFN,5,62,bad,good
+German Credit,PFN,5,503,bad,bad
+German Credit,PFN,5,870,bad,good
+German Credit,PFN,5,444,bad,bad
+German Credit,PFN,5,118,good,good
+German Credit,PFN,5,634,good,good
+German Credit,PFN,5,992,good,good
+German Credit,PFN,5,804,good,good
+German Credit,PFN,5,824,good,good
+German Credit,PFN,5,675,good,good
+German Credit,PFN,5,388,good,good
+German Credit,PFN,5,233,good,good
+German Credit,PFN,5,971,bad,good
+German Credit,PFN,5,134,good,good
+German Credit,PFN,5,477,good,good
+German Credit,PFN,5,762,good,good
+German Credit,PFN,5,184,good,good
+German Credit,PFN,5,195,good,good
+German Credit,PFN,5,186,bad,bad
+German Credit,PFN,5,463,good,good
+German Credit,PFN,5,501,good,good
+German Credit,PFN,5,801,good,good
+German Credit,PFN,5,404,bad,good
+German Credit,PFN,5,811,bad,bad
+German Credit,PFN,5,915,bad,bad
+German Credit,PFN,5,397,good,good
+German Credit,PFN,5,584,good,good
+German Credit,PFN,5,597,bad,bad
+German Credit,PFN,5,833,good,bad
+German Credit,PFN,5,809,bad,bad
+German Credit,PFN,5,765,good,good
+German Credit,PFN,5,285,good,good
+German Credit,PFN,5,398,bad,good
+German Credit,PFN,5,528,good,bad
+German Credit,PFN,5,430,good,bad
+German Credit,PFN,5,482,bad,bad
+German Credit,PFN,5,556,good,good
+German Credit,PFN,5,122,good,good
+German Credit,PFN,5,917,good,good
+German Credit,PFN,5,327,bad,good
+German Credit,PFN,5,931,good,good
+German Credit,PFN,5,603,good,good
+German Credit,PFN,5,312,good,good
+German Credit,PFN,5,995,bad,good
+German Credit,PFN,5,810,bad,bad
+German Credit,PFN,5,573,good,good
+German Credit,PFN,5,950,good,good
+German Credit,PFN,5,89,good,good
+German Credit,PFN,5,291,bad,good
+German Credit,PFN,5,124,bad,good
+German Credit,PFN,5,105,good,good
+German Credit,PFN,5,325,good,good
+German Credit,PFN,5,672,bad,good
+German Credit,PFN,5,716,good,good
+German Credit,PFN,5,104,good,good
+German Credit,PFN,5,428,good,good
+German Credit,PFN,5,180,good,good
+German Credit,PFN,5,246,good,good
+German Credit,PFN,5,606,bad,good
+German Credit,PFN,5,938,bad,good
+German Credit,PFN,5,828,good,good
+German Credit,PFN,5,847,good,good
+German Credit,PFN,5,893,bad,bad
+German Credit,PFN,5,815,good,good
+German Credit,PFN,5,409,bad,good
+German Credit,PFN,5,986,good,good
+German Credit,PFN,5,773,bad,bad
+German Credit,PFN,5,305,bad,good
+German Credit,PFN,5,324,good,good
+German Credit,PFN,5,959,good,bad
+German Credit,PFN,5,377,good,good
+German Credit,PFN,5,780,bad,good
+German Credit,PFN,5,823,good,good
+German Credit,PFN,5,217,bad,bad
+German Credit,PFN,5,508,good,good
+German Credit,PFN,5,711,good,good
+German Credit,PFN,5,819,bad,bad
+German Credit,PFN,5,817,good,good
+German Credit,PFN,5,150,good,good
+German Credit,PFN,5,726,good,good
+German Credit,PFN,5,30,good,good
+German Credit,PFN,5,4,good,good
+German Credit,PFN,5,845,bad,bad
+German Credit,PFN,5,586,good,good
+German Credit,PFN,5,901,bad,good
+German Credit,PFN,5,567,bad,good
+German Credit,PFN,5,33,good,good
+German Credit,PFN,5,734,good,good
+German Credit,PFN,5,509,bad,bad
+German Credit,PFN,5,932,good,good
+German Credit,PFN,5,807,good,good
+German Credit,PFN,5,681,good,good
+German Credit,PFN,5,581,good,good
+German Credit,PFN,5,707,good,good
+German Credit,PFN,5,261,good,good
+German Credit,PFN,5,189,good,good
+German Credit,PFN,5,159,bad,good
+German Credit,PFN,5,8,good,good
+German Credit,PFN,5,39,bad,bad
+German Credit,PFN,5,709,bad,good
+German Credit,PFN,5,423,good,good
+German Credit,PFN,5,340,good,good
+German Credit,PFN,5,778,good,good
+German Credit,PFN,5,300,good,good
+German Credit,PFN,5,399,good,good
+German Credit,PFN,5,829,good,good
+German Credit,PFN,5,505,good,good
+German Credit,PFN,5,400,good,good
+German Credit,PFN,5,591,bad,good
+German Credit,PFN,5,974,good,good
+German Credit,PFN,5,512,bad,good
+German Credit,PFN,5,952,good,good
+German Credit,PFN,5,964,bad,good
+German Credit,PFN,5,832,good,good
+German Credit,PFN,5,722,good,good
+German Credit,PFN,5,919,bad,good
+German Credit,PFN,5,146,good,good
+German Credit,PFN,5,19,good,good
+German Credit,PFN,5,680,good,good
+German Credit,PFN,5,741,good,bad
+German Credit,PFN,5,939,bad,good
+German Credit,PFN,5,269,bad,bad
+German Credit,PFN,5,402,good,good
+German Credit,PFN,5,656,good,good
+German Credit,PFN,5,229,good,good
+German Credit,PFN,5,166,good,good
+German Credit,PFN,5,660,good,good
+German Credit,PFN,5,550,bad,good
+German Credit,PFN,5,132,bad,bad
+QSAR Biodegradation,PFN,5,958,No,Yes
+QSAR Biodegradation,PFN,5,906,No,No
+QSAR Biodegradation,PFN,5,20,Yes,No
+QSAR Biodegradation,PFN,5,484,No,Yes
+QSAR Biodegradation,PFN,5,989,No,No
+QSAR Biodegradation,PFN,5,32,Yes,Yes
+QSAR Biodegradation,PFN,5,1024,Yes,Yes
+QSAR Biodegradation,PFN,5,317,No,No
+QSAR Biodegradation,PFN,5,236,No,No
+QSAR Biodegradation,PFN,5,538,Yes,Yes
+QSAR Biodegradation,PFN,5,73,No,No
+QSAR Biodegradation,PFN,5,432,Yes,No
+QSAR Biodegradation,PFN,5,673,No,Yes
+QSAR Biodegradation,PFN,5,660,No,No
+QSAR Biodegradation,PFN,5,434,No,Yes
+QSAR Biodegradation,PFN,5,371,No,No
+QSAR Biodegradation,PFN,5,1050,Yes,Yes
+QSAR Biodegradation,PFN,5,329,No,No
+QSAR Biodegradation,PFN,5,670,No,No
+QSAR Biodegradation,PFN,5,458,Yes,Yes
+QSAR Biodegradation,PFN,5,705,No,No
+QSAR Biodegradation,PFN,5,578,No,No
+QSAR Biodegradation,PFN,5,1031,No,No
+QSAR Biodegradation,PFN,5,929,No,Yes
+QSAR Biodegradation,PFN,5,449,Yes,No
+QSAR Biodegradation,PFN,5,890,No,No
+QSAR Biodegradation,PFN,5,930,No,No
+QSAR Biodegradation,PFN,5,844,Yes,Yes
+QSAR Biodegradation,PFN,5,387,No,No
+QSAR Biodegradation,PFN,5,117,No,No
+QSAR Biodegradation,PFN,5,274,No,No
+QSAR Biodegradation,PFN,5,45,No,No
+QSAR Biodegradation,PFN,5,275,Yes,No
+QSAR Biodegradation,PFN,5,377,No,No
+QSAR Biodegradation,PFN,5,184,No,No
+QSAR Biodegradation,PFN,5,895,No,No
+QSAR Biodegradation,PFN,5,727,No,Yes
+QSAR Biodegradation,PFN,5,224,Yes,Yes
+QSAR Biodegradation,PFN,5,235,No,No
+QSAR Biodegradation,PFN,5,295,No,No
+QSAR Biodegradation,PFN,5,768,Yes,Yes
+QSAR Biodegradation,PFN,5,761,No,No
+QSAR Biodegradation,PFN,5,541,No,No
+QSAR Biodegradation,PFN,5,431,No,No
+QSAR Biodegradation,PFN,5,436,Yes,Yes
+QSAR Biodegradation,PFN,5,965,No,No
+QSAR Biodegradation,PFN,5,208,No,No
+QSAR Biodegradation,PFN,5,41,No,Yes
+QSAR Biodegradation,PFN,5,655,No,No
+QSAR Biodegradation,PFN,5,463,No,Yes
+QSAR Biodegradation,PFN,5,770,No,No
+QSAR Biodegradation,PFN,5,137,No,No
+QSAR Biodegradation,PFN,5,350,No,No
+QSAR Biodegradation,PFN,5,400,Yes,Yes
+QSAR Biodegradation,PFN,5,238,Yes,Yes
+QSAR Biodegradation,PFN,5,993,No,No
+QSAR Biodegradation,PFN,5,331,Yes,No
+QSAR Biodegradation,PFN,5,501,No,No
+QSAR Biodegradation,PFN,5,153,No,No
+QSAR Biodegradation,PFN,5,638,Yes,Yes
+QSAR Biodegradation,PFN,5,310,No,No
+QSAR Biodegradation,PFN,5,288,No,No
+QSAR Biodegradation,PFN,5,790,Yes,Yes
+QSAR Biodegradation,PFN,5,936,No,No
+QSAR Biodegradation,PFN,5,420,No,No
+QSAR Biodegradation,PFN,5,136,No,Yes
+QSAR Biodegradation,PFN,5,328,No,No
+QSAR Biodegradation,PFN,5,832,No,Yes
+QSAR Biodegradation,PFN,5,1029,Yes,Yes
+QSAR Biodegradation,PFN,5,1026,Yes,Yes
+QSAR Biodegradation,PFN,5,742,Yes,Yes
+QSAR Biodegradation,PFN,5,268,No,Yes
+QSAR Biodegradation,PFN,5,230,No,No
+QSAR Biodegradation,PFN,5,524,No,No
+QSAR Biodegradation,PFN,5,833,No,No
+QSAR Biodegradation,PFN,5,229,No,Yes
+QSAR Biodegradation,PFN,5,747,Yes,Yes
+QSAR Biodegradation,PFN,5,802,No,No
+QSAR Biodegradation,PFN,5,867,Yes,Yes
+QSAR Biodegradation,PFN,5,123,Yes,No
+QSAR Biodegradation,PFN,5,94,No,No
+QSAR Biodegradation,PFN,5,394,No,No
+QSAR Biodegradation,PFN,5,644,No,No
+QSAR Biodegradation,PFN,5,490,Yes,Yes
+QSAR Biodegradation,PFN,5,990,No,Yes
+QSAR Biodegradation,PFN,5,839,No,No
+QSAR Biodegradation,PFN,5,271,No,No
+QSAR Biodegradation,PFN,5,452,Yes,Yes
+QSAR Biodegradation,PFN,5,411,No,No
+QSAR Biodegradation,PFN,5,1014,No,No
+QSAR Biodegradation,PFN,5,15,No,No
+QSAR Biodegradation,PFN,5,868,No,Yes
+QSAR Biodegradation,PFN,5,65,No,No
+QSAR Biodegradation,PFN,5,511,No,No
+QSAR Biodegradation,PFN,5,265,No,No
+QSAR Biodegradation,PFN,5,789,No,No
+QSAR Biodegradation,PFN,5,152,Yes,Yes
+QSAR Biodegradation,PFN,5,255,No,Yes
+QSAR Biodegradation,PFN,5,596,Yes,No
+QSAR Biodegradation,PFN,5,665,No,No
+QSAR Biodegradation,PFN,5,488,No,No
+QSAR Biodegradation,PFN,5,553,No,No
+QSAR Biodegradation,PFN,5,728,Yes,Yes
+QSAR Biodegradation,PFN,5,991,No,Yes
+QSAR Biodegradation,PFN,5,828,No,Yes
+QSAR Biodegradation,PFN,5,1049,No,No
+QSAR Biodegradation,PFN,5,206,No,No
+QSAR Biodegradation,PFN,5,193,No,No
+QSAR Biodegradation,PFN,5,636,No,No
+QSAR Biodegradation,PFN,5,57,No,No
+QSAR Biodegradation,PFN,5,28,Yes,Yes
+QSAR Biodegradation,PFN,5,291,Yes,No
+QSAR Biodegradation,PFN,5,101,Yes,Yes
+QSAR Biodegradation,PFN,5,221,Yes,Yes
+QSAR Biodegradation,PFN,5,776,Yes,Yes
+QSAR Biodegradation,PFN,5,824,No,No
+QSAR Biodegradation,PFN,5,880,No,Yes
+QSAR Biodegradation,PFN,5,492,No,No
+QSAR Biodegradation,PFN,5,536,Yes,No
+QSAR Biodegradation,PFN,5,332,Yes,Yes
+QSAR Biodegradation,PFN,5,401,No,No
+QSAR Biodegradation,PFN,5,234,Yes,Yes
+QSAR Biodegradation,PFN,5,66,No,No
+QSAR Biodegradation,PFN,5,460,No,No
+QSAR Biodegradation,PFN,5,282,Yes,No
+QSAR Biodegradation,PFN,5,812,No,No
+QSAR Biodegradation,PFN,5,277,No,No
+QSAR Biodegradation,PFN,5,568,No,No
+QSAR Biodegradation,PFN,5,33,No,No
+QSAR Biodegradation,PFN,5,44,Yes,Yes
+QSAR Biodegradation,PFN,5,785,No,No
+QSAR Biodegradation,PFN,5,618,Yes,No
+QSAR Biodegradation,PFN,5,927,No,No
+QSAR Biodegradation,PFN,5,714,Yes,Yes
+QSAR Biodegradation,PFN,5,430,No,No
+QSAR Biodegradation,PFN,5,576,Yes,Yes
+QSAR Biodegradation,PFN,5,864,No,No
+QSAR Biodegradation,PFN,5,814,No,No
+QSAR Biodegradation,PFN,5,986,No,Yes
+QSAR Biodegradation,PFN,5,845,No,No
+QSAR Biodegradation,PFN,5,173,No,No
+QSAR Biodegradation,PFN,5,1016,No,No
+QSAR Biodegradation,PFN,5,620,No,No
+QSAR Biodegradation,PFN,5,18,No,No
+QSAR Biodegradation,PFN,5,213,No,No
+QSAR Biodegradation,PFN,5,628,No,No
+QSAR Biodegradation,PFN,5,694,Yes,Yes
+QSAR Biodegradation,PFN,5,217,No,No
+QSAR Biodegradation,PFN,5,330,Yes,Yes
+QSAR Biodegradation,PFN,5,877,No,No
+QSAR Biodegradation,PFN,5,344,No,No
+QSAR Biodegradation,PFN,5,887,No,No
+QSAR Biodegradation,PFN,5,203,No,No
+QSAR Biodegradation,PFN,5,885,No,No
+QSAR Biodegradation,PFN,5,474,Yes,Yes
+QSAR Biodegradation,PFN,5,980,No,No
+QSAR Biodegradation,PFN,5,281,Yes,Yes
+QSAR Biodegradation,PFN,5,141,No,No
+QSAR Biodegradation,PFN,5,279,Yes,Yes
+QSAR Biodegradation,PFN,5,982,Yes,Yes
+QSAR Biodegradation,PFN,5,917,No,No
+QSAR Biodegradation,PFN,5,322,No,No
+QSAR Biodegradation,PFN,5,134,No,No
+QSAR Biodegradation,PFN,5,68,No,No
+QSAR Biodegradation,PFN,5,666,No,Yes
+QSAR Biodegradation,PFN,5,416,No,No
+QSAR Biodegradation,PFN,5,579,No,No
+QSAR Biodegradation,PFN,5,557,No,No
+QSAR Biodegradation,PFN,5,389,No,No
+QSAR Biodegradation,PFN,5,871,Yes,Yes
+QSAR Biodegradation,PFN,5,0,Yes,Yes
+QSAR Biodegradation,PFN,5,205,No,No
+QSAR Biodegradation,PFN,5,637,Yes,Yes
+QSAR Biodegradation,PFN,5,686,No,No
+QSAR Biodegradation,PFN,5,40,No,No
+QSAR Biodegradation,PFN,5,1028,No,No
+QSAR Biodegradation,PFN,5,388,No,Yes
+QSAR Biodegradation,PFN,5,667,No,No
+QSAR Biodegradation,PFN,5,365,Yes,Yes
+QSAR Biodegradation,PFN,5,587,No,No
+QSAR Biodegradation,PFN,5,79,Yes,Yes
+QSAR Biodegradation,PFN,5,592,No,No
+QSAR Biodegradation,PFN,5,444,No,Yes
+QSAR Biodegradation,PFN,5,154,No,No
+QSAR Biodegradation,PFN,5,258,No,No
+QSAR Biodegradation,PFN,5,616,No,No
+QSAR Biodegradation,PFN,5,925,No,Yes
+QSAR Biodegradation,PFN,5,138,No,No
+QSAR Biodegradation,PFN,5,386,No,No
+QSAR Biodegradation,PFN,5,198,Yes,Yes
+QSAR Biodegradation,PFN,5,304,No,No
+QSAR Biodegradation,PFN,5,461,Yes,Yes
+QSAR Biodegradation,PFN,5,1051,Yes,Yes
+QSAR Biodegradation,PFN,5,765,No,No
+QSAR Biodegradation,PFN,5,172,Yes,Yes
+QSAR Biodegradation,PFN,5,468,Yes,No
+QSAR Biodegradation,PFN,5,412,No,No
+QSAR Biodegradation,PFN,5,953,No,No
+QSAR Biodegradation,PFN,5,897,No,Yes
+QSAR Biodegradation,PFN,5,1038,No,No
+QSAR Biodegradation,PFN,5,435,No,No
+QSAR Biodegradation,PFN,5,589,No,No
+QSAR Biodegradation,PFN,5,343,Yes,Yes
+QSAR Biodegradation,PFN,5,619,Yes,Yes
+QSAR Biodegradation,PFN,5,438,Yes,Yes
+QSAR Biodegradation,PFN,5,78,Yes,Yes
+QSAR Biodegradation,PFN,5,594,No,No
+QSAR Biodegradation,PFN,5,625,Yes,Yes
+QSAR Biodegradation,PFN,5,645,No,No
+QSAR Biodegradation,PFN,5,301,Yes,Yes
+QSAR Biodegradation,PFN,5,951,Yes,Yes
+QSAR Biodegradation,PFN,5,108,Yes,Yes
+QSAR Biodegradation,PFN,5,836,Yes,Yes
+QSAR Biodegradation,PFN,5,646,No,No
+QSAR Biodegradation,PFN,5,760,No,No
+QSAR Biodegradation,PFN,5,191,No,No
+QSAR Biodegradation,PFN,5,564,No,No
+QSAR Biodegradation,PFN,5,509,Yes,Yes
+QSAR Biodegradation,PFN,5,654,No,Yes
+QSAR Biodegradation,PFN,5,1007,No,No
+QSAR Biodegradation,PFN,5,617,Yes,Yes
+QSAR Biodegradation,PFN,5,429,No,No
+QSAR Biodegradation,PFN,5,112,No,No
+QSAR Biodegradation,PFN,5,692,No,No
+QSAR Biodegradation,PFN,5,50,No,No
+QSAR Biodegradation,PFN,5,889,No,No
+QSAR Biodegradation,PFN,5,86,No,No
+QSAR Biodegradation,PFN,5,293,Yes,Yes
+QSAR Biodegradation,PFN,5,759,Yes,Yes
+QSAR Biodegradation,PFN,5,128,No,No
+QSAR Biodegradation,PFN,5,144,No,No
+QSAR Biodegradation,PFN,5,731,No,No
+QSAR Biodegradation,PFN,5,372,Yes,Yes
+QSAR Biodegradation,PFN,5,569,No,No
+QSAR Biodegradation,PFN,5,678,Yes,Yes
+QSAR Biodegradation,PFN,5,319,No,Yes
+QSAR Biodegradation,PFN,5,181,No,No
+QSAR Biodegradation,PFN,5,933,No,No
+QSAR Biodegradation,PFN,5,215,No,No
+QSAR Biodegradation,PFN,5,188,Yes,Yes
+QSAR Biodegradation,PFN,5,653,Yes,Yes
+QSAR Biodegradation,PFN,5,39,No,No
+QSAR Biodegradation,PFN,5,147,No,No
+QSAR Biodegradation,PFN,5,919,Yes,Yes
+QSAR Biodegradation,PFN,5,570,No,No
+QSAR Biodegradation,PFN,5,763,No,No
+QSAR Biodegradation,PFN,5,306,No,No
+QSAR Biodegradation,PFN,5,292,Yes,Yes
+QSAR Biodegradation,PFN,5,829,No,No
+QSAR Biodegradation,PFN,5,1042,No,No
+QSAR Biodegradation,PFN,5,996,Yes,Yes
+QSAR Biodegradation,PFN,5,186,No,No
+QSAR Biodegradation,PFN,5,688,No,No
+QSAR Biodegradation,PFN,5,369,Yes,No
+QSAR Biodegradation,PFN,5,671,Yes,No
+QSAR Biodegradation,PFN,5,574,Yes,Yes
+QSAR Biodegradation,PFN,5,699,No,No
+QSAR Biodegradation,PFN,5,1000,No,No
+QSAR Biodegradation,PFN,5,223,No,No
+QSAR Biodegradation,PFN,5,118,No,Yes
+QSAR Biodegradation,PFN,5,130,Yes,Yes
+QSAR Biodegradation,PFN,5,406,No,No
+QSAR Biodegradation,PFN,5,946,Yes,No
+QSAR Biodegradation,PFN,5,861,Yes,No
+QSAR Biodegradation,PFN,5,1023,Yes,Yes
+QSAR Biodegradation,PFN,5,835,No,Yes
+QSAR Biodegradation,PFN,5,231,No,No
+QSAR Biodegradation,PFN,5,98,No,No
+QSAR Biodegradation,PFN,5,718,Yes,No
+QSAR Biodegradation,PFN,5,93,No,No
+QSAR Biodegradation,PFN,5,107,No,No
+QSAR Biodegradation,PFN,5,204,Yes,No
+QSAR Biodegradation,PFN,5,494,No,No
+QSAR Biodegradation,PFN,5,695,Yes,Yes
+QSAR Biodegradation,PFN,5,24,Yes,Yes
+QSAR Biodegradation,PFN,5,556,No,No
+QSAR Biodegradation,PFN,5,69,No,No
+QSAR Biodegradation,PFN,5,702,Yes,Yes
+QSAR Biodegradation,PFN,5,55,Yes,Yes
+QSAR Biodegradation,PFN,5,841,Yes,Yes
+QSAR Biodegradation,PFN,5,52,No,No
+QSAR Biodegradation,PFN,5,170,No,Yes
+QSAR Biodegradation,PFN,5,847,Yes,Yes
+QSAR Biodegradation,PFN,5,801,No,No
+QSAR Biodegradation,PFN,5,859,Yes,Yes
+QSAR Biodegradation,PFN,5,414,No,No
+QSAR Biodegradation,PFN,5,633,No,No
+QSAR Biodegradation,PFN,5,489,No,No
+QSAR Biodegradation,PFN,5,904,Yes,Yes
+QSAR Biodegradation,PFN,5,970,No,No
+QSAR Biodegradation,PFN,5,308,No,Yes
+QSAR Biodegradation,PFN,5,384,Yes,Yes
+QSAR Biodegradation,PFN,5,788,Yes,Yes
+QSAR Biodegradation,PFN,5,262,Yes,Yes
+QSAR Biodegradation,PFN,5,131,No,Yes
+QSAR Biodegradation,PFN,5,485,Yes,Yes
+QSAR Biodegradation,PFN,5,202,No,No
+QSAR Biodegradation,PFN,5,176,Yes,Yes
+QSAR Biodegradation,PFN,5,999,Yes,Yes
+QSAR Biodegradation,PFN,5,531,No,No
+QSAR Biodegradation,PFN,5,795,Yes,Yes
+QSAR Biodegradation,PFN,5,903,No,No
+QSAR Biodegradation,PFN,5,823,No,No
+QSAR Biodegradation,PFN,5,921,Yes,Yes
+QSAR Biodegradation,PFN,5,1019,Yes,Yes
+QSAR Biodegradation,PFN,5,560,No,No
+QSAR Biodegradation,PFN,5,905,No,No
+QSAR Biodegradation,PFN,5,346,No,No
+QSAR Biodegradation,PFN,5,341,No,No
+QSAR Biodegradation,PFN,5,276,No,No
+QSAR Biodegradation,PFN,5,437,No,No
+QSAR Biodegradation,PFN,5,445,No,No
+QSAR Biodegradation,PFN,5,472,No,No
+QSAR Biodegradation,PFN,5,168,Yes,Yes
+QSAR Biodegradation,PFN,5,353,No,No
+QSAR Biodegradation,PFN,5,652,Yes,Yes
+QSAR Biodegradation,PFN,5,16,Yes,Yes

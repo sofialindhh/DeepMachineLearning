@@ -1,0 +1,6 @@
+dataset,model,k,n_test,mean_overlap_at_k,median_overlap_at_k
+Blood Transfusion,ICL,5,225,0.5457777777777778,0.6
+Diabetes,ICL,5,231,0.438961038961039,0.4
+Maternal Health Risk,ICL,5,305,0.5704918032786885,0.6
+German Credit,ICL,5,300,0.2886666666666666,0.2
+QSAR Biodegradation,ICL,5,317,0.4643533123028391,0.4
