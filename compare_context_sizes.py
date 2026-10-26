@@ -23,7 +23,7 @@ pfn = pd.read_csv(
 
 keys = ["dataset", "test_index"]
 
-# Check that there are no duplicate predictions per test point.
+# Check that there are no duplicate predictions per test point
 for name, df in [
     ("full", full),
     ("ICL restricted", icl),
@@ -35,8 +35,7 @@ for name, df in [
         )
 
 
-# Keep only test points predicted by BOTH ICL and PFN
-# in the restricted-context experiment
+# Keep only test points predicted by BOTH ICL and PFN in the restricted-context experiment
 
 
 common = icl.merge(
@@ -64,7 +63,7 @@ full_common = full.merge(
 
 assert (full_common["y_true"] == full_common["y_true_icl"]).all()
 
-# Ensure all expected common points were found in full predictions.
+# Ensure all expected common points were found in full predictions
 for dataset, group in common.groupby("dataset"):
     n_full = (full_common["dataset"] == dataset).sum()
     if n_full != len(group):
@@ -97,7 +96,7 @@ for dataset, group in common.groupby("dataset"):
         full_common["dataset"] == dataset
     ]
 
-    # Full-context models, evaluated on common test points.
+    # Full-context models, evaluated on common test points
     full_models = {
         "KNN": "knn_pred",
         "PFN": "tabpfn_pred",
@@ -118,7 +117,7 @@ for dataset, group in common.groupby("dataset"):
             **metrics,
         })
 
-    # Restricted-context models, same test points.
+    # Restricted-context models, same test points
     for model, group_model in [
         ("PFN", group),
         ("ICL", group),

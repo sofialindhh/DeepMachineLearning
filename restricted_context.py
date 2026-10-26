@@ -79,7 +79,7 @@ def evaluate_dataset(dataset_name, filename, target):
     print(f"Context size: {K}")
     print(f"{'=' * 60}")
 
-    # Use exactly the same split as the existing project.
+    # Use exactly the same split as the existing project
     X_train, X_test, y_train, y_test = loadfile(
         filename, target
     )
@@ -105,7 +105,7 @@ def evaluate_dataset(dataset_name, filename, target):
 
     
 
-    # Each test point gets its own K nearest training rows.
+    # Each test point gets its own K nearest training rows
     for test_index in X_test.index:
         neighbors = dataset_neighbors[
             dataset_neighbors["test_index"] == test_index
@@ -119,13 +119,12 @@ def evaluate_dataset(dataset_name, filename, target):
 
         neighbor_indices = neighbors["neighbor_index"].tolist()
 
-        # Recover the corresponding training rows and labels.
+        # Recover the corresponding training rows and labels
         X_context = X_train.loc[neighbor_indices]
         y_context = y_train.loc[neighbor_indices]
 
-        # If every neighbor has the same class, the context
-        # contains no class ambiguity. Avoid fitting a model
-        # that may reject a one-class training set.
+        # If every neighbor has the same class, the context contains no class ambiguity, avoid fitting a model
+        # that may reject a one-class training set
 
         model = create_model()
 

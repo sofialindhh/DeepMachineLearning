@@ -15,7 +15,7 @@ pfn = pd.read_csv(
     f"{RESULTS_DIR}/pfn_restricted_context_predictions.csv"
 )
 
-# Matcha samma dataset, K och testpunkt.
+# Match same dataset, K och testpoint
 keys = ["dataset", "context_size", "test_index"]
 
 merged = icl.merge(
@@ -26,7 +26,7 @@ merged = icl.merge(
     validate="one_to_one",
 )
 
-# Kontrollera att det sanna värdet stämmer mellan modellerna.
+# Check that true value is correct between models
 assert (merged["y_true_icl"] == merged["y_true_pfn"]).all()
 
 rows = []

@@ -16,7 +16,7 @@ import torch
 import inspect
 
 
-MODEL_NAME = "PFN"  # Välj "PFN" eller "ICL"
+MODEL_NAME = "PFN"  # Choose "PFN" or "ICL"
 K = 5
 
 DATASETS = [
@@ -39,7 +39,6 @@ DATASETS = [
 RESULTS_DIR = "results"
 KNN_FILE = os.path.join(RESULTS_DIR, "knn_neighbors.csv")
 
-# Input model PFN or ICL
 
 def create_model(model_name):
     """Create the chosen model"""
@@ -54,7 +53,7 @@ def create_model(model_name):
 
     else:
         raise ValueError(
-            f"Okänd modell: {model_name}. Välj 'PFN' eller 'ICL'."
+            f"Unknown model: {model_name}. Choose 'PFN' or 'ICL'."
         )
 
 
@@ -69,8 +68,6 @@ def get_tabicl_attention(model, X_test, X_train):
         id(block): i
         for i, block in enumerate(blocks)
     }
-
-    n_train = len(model.X_train_) if hasattr(model, "X_train_") else None
 
     def capture_sdpa(
         q,
@@ -90,8 +87,7 @@ def get_tabicl_attention(model, X_test, X_train):
             ssmax_layer=ssmax_layer,
         )
 
-        # Select ICL attention: all train+test queries attending
-        # to training keys, with SSMax enabled.
+        # Select ICL attention: all train+test queries attending to training keys, with SSMax enabled.
         if (
             q.ndim == 4
             and k.ndim == 4
@@ -102,8 +98,7 @@ def get_tabicl_attention(model, X_test, X_train):
             with torch.no_grad():
                 q_used = q.detach()
 
-                # Apply TabICL's query scaling before reconstructing
-                # the attention probabilities.
+                # Apply TabICL's query scaling before reconstructing the attention probabilities.
                 q_used = ssmax_layer(q_used, k.shape[-2])
 
                 scores = torch.matmul(
@@ -120,12 +115,10 @@ def get_tabicl_attention(model, X_test, X_train):
 
                 attention = torch.softmax(scores, dim=-1)
 
-                # Keep only test queries; key positions correspond
-                # to the training rows.
+                # Keep only test queries; key positions correspond to the training rows.
                 attention = attention[:, :, -len(X_test):, :]
 
-                # Average over estimator and head dimensions:
-                # (4, 8, n_test, n_train) -> (n_test, n_train)
+
                 attention = attention.mean(dim=(0, 1))
 
                 # Temporary diagnostics: identify the attention call site.
@@ -181,7 +174,7 @@ def get_tabicl_attention(model, X_test, X_train):
 
     return captured
 
-# Get Weights/ Readout
+# Get Weights/Readout
 
 def get_model_weights(model_name, model, X_test, X_train):
     name = model_name.upper()
@@ -289,8 +282,7 @@ def analyze_dataset(
             "Control names of datasets in KNN-file."
         )
 
-    # Check that KNN and this uses
-    # the same testpoints.
+    # Check that KNN and this uses the same testpoints.
     knn_test_indices = set(
         dataset_knn["test_index"].unique()
     )
@@ -389,7 +381,7 @@ def analyze_dataset(
         ].median(),
     }])
 
-    print("\nResultat:")
+    print("\nResults:")
     print(summary_df.to_string(index=False))
 
     return result_df, summary_df
