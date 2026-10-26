@@ -3,3 +3,7 @@ __pycache__/
 .venv/
 venv/
 .DS_Store
+
+# Large generated embedding files
+study_A/datasets/embedding/anneal/anneal_embedding.pt
+study_A/datasets/embedding/credit-g/credit-g_embedding.pt

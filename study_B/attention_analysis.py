@@ -35,7 +35,7 @@ DATASETS = [
      "Biodegradable"),
 ]
 
-RESULTS_DIR = "results"
+RESULTS_DIR = "study_B/results"
 KNN_FILE = os.path.join(RESULTS_DIR, "knn_neighbors.csv")
 
 

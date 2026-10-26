@@ -8,7 +8,7 @@ from sklearn.metrics import (
     f1_score,
 )
 
-RESULTS_DIR = "results"
+RESULTS_DIR = "study_B/results"
 
 # Load existing prediction files
 

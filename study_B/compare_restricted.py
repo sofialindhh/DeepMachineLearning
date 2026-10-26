@@ -6,7 +6,7 @@ from sklearn.metrics import (
     f1_score,
 )
 
-RESULTS_DIR = "results"
+RESULTS_DIR = "study_B/results"
 
 icl = pd.read_csv(
     f"{RESULTS_DIR}/icl_restricted_context_predictions.csv"

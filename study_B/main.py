@@ -18,7 +18,7 @@ from sklearn.preprocessing import OneHotEncoder
 
 # Load the ARFF file
 def loadfile(f, target):
-    with open(f"data/{f}", "r") as file:
+    with open(f"study_B/data/{f}", "r") as file:
         dataset = arff.load(file)
 
     # Convert to a pandas DataFrame
@@ -271,13 +271,13 @@ if __name__ == "__main__":
     predictions = pd.concat(all_predictions, ignore_index=True)
 
     predictions.to_csv(
-        "results/predictions.csv",
+        "study_B/results/predictions.csv",
         index=False
     )
 
-    print("Saved to results/predictions.csv")
+    print("Saved to study_B/results/predictions.csv")
 
-    os.makedirs("results", exist_ok=True)
+    os.makedirs("study_B/results", exist_ok=True)
 
     results = pd.DataFrame([
         {
@@ -387,10 +387,10 @@ if __name__ == "__main__":
         },
     ])
 
-    results.to_csv("results/metrics.csv", index=False)
+    results.to_csv("study_B/results/metrics.csv", index=False)
 
     print(results)
-    print("Saved to results/metrics.csv")
+    print("Saved to study_B/results/metrics.csv")
 
 
     all_neighbors = pd.concat(
@@ -404,7 +404,7 @@ if __name__ == "__main__":
         ignore_index=True
     )
 
-    all_neighbors.to_csv("results/knn_neighbors.csv", index=False)
+    all_neighbors.to_csv("study_B/results/knn_neighbors.csv", index=False)
     print(all_neighbors.head(10))
     print("Number of saved neighbors:", len(all_neighbors))
     print(all_neighbors.groupby("dataset").size())  

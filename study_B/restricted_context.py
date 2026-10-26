@@ -50,8 +50,8 @@ DATASETS = [
     ),
 ]
 
-KNN_FILE = "results/knn_neighbors.csv"
-RESULTS_DIR = "results"
+KNN_FILE = "study_B/results/knn_neighbors.csv"
+RESULTS_DIR = "study_B/results"
 
 
 
