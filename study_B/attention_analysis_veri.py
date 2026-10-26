@@ -87,7 +87,7 @@ def get_tabicl_attention(model, X_test, X_train):
             ssmax_layer=ssmax_layer,
         )
 
-        # Select ICL attention: all train+test queries attending to training keys, with SSMax enabled.
+        # Select ICL attention: all train+test queries attending to training keys, with SSMax enabled
         if (
             q.ndim == 4
             and k.ndim == 4
@@ -98,7 +98,7 @@ def get_tabicl_attention(model, X_test, X_train):
             with torch.no_grad():
                 q_used = q.detach()
 
-                # Apply TabICL's query scaling before reconstructing the attention probabilities.
+                # Apply TabICL's query scaling before reconstructing the attention probabilities
                 q_used = ssmax_layer(q_used, k.shape[-2])
 
                 scores = torch.matmul(
@@ -115,13 +115,13 @@ def get_tabicl_attention(model, X_test, X_train):
 
                 attention = torch.softmax(scores, dim=-1)
 
-                # Keep only test queries; key positions correspond to the training rows.
+                # Keep only test queries; key positions correspond to the training rows
                 attention = attention[:, :, -len(X_test):, :]
 
 
                 attention = attention.mean(dim=(0, 1))
 
-                # Temporary diagnostics: identify the attention call site.
+                # Temporary diagnostics: identify the attention call site
                 frame = inspect.currentframe().f_back
                 block_index = None
                 call_stack = []
@@ -208,7 +208,6 @@ def get_model_weights(model_name, model, X_test, X_train):
                "No TabICL ICL attention was captured."
             )
 
-        # Each captured matrix has shape (n_test, n_train).
         weights = np.mean(
           [item["attention"] for item in captured],
           axis=0,
@@ -241,13 +240,13 @@ def analyze_dataset(
     print(f"Modell: {model_name}")
     print(f"{'=' * 60}")
 
-    # Load same train-test-split as in main().
+    # Load same train-test-split as in main()
     X_train, X_test, y_train, y_test = loadfile(
         filename,
         target
     )
 
-    # Get KNN results.
+    # Get KNN results
     knn_df = pd.read_csv(KNN_FILE)
 
     required_columns = {
@@ -282,7 +281,7 @@ def analyze_dataset(
             "Control names of datasets in KNN-file."
         )
 
-    # Check that KNN and this uses the same testpoints.
+    # Check that KNN and this uses the same testpoints
     knn_test_indices = set(
         dataset_knn["test_index"].unique()
     )
@@ -297,11 +296,11 @@ def analyze_dataset(
             "same train/test-split."
         )
 
-    # Create and train model.
+    # Create and train model
     model = create_model(model_name)
     model.fit(X_train, y_train)
 
-    # Get weights for model.
+    # Get weights for model
     weights, train_positions = get_model_weights(
         model_name,
         model,
@@ -309,14 +308,14 @@ def analyze_dataset(
         X_train
     )
 
-    # Map positions in X_train to original index.
+    # Map positions in X_train to original index
     train_original_indices = (
         X_train.index.to_numpy()[train_positions]
     )
 
     print("No of trainingpoints in readout:", len(train_positions))
 
-    # Make sure that KNN has at least K neigbours per testpoint.
+    # Make sure that KNN has at least K neigbours per testpoint
     neighbor_counts = dataset_knn.groupby(
         "test_index"
     ).size()
@@ -328,10 +327,10 @@ def analyze_dataset(
 
     results = []
 
-    # Analyzy each testpoint.
+    # Analyze each testpoint
     for i, test_index in enumerate(X_test.index.astype(int)):
 
-        # Model's K highest ranked trainingpoints.
+        # Model's K highest ranked trainingpoints
         top_positions = np.argsort(
             weights[i]
         )[::-1][:K]
@@ -340,7 +339,7 @@ def analyze_dataset(
             train_original_indices[top_positions].astype(int)
         )
 
-        # KNN:s K nearest trainingpoints.
+        # KNN:s K nearest trainingpoints
         test_knn = dataset_knn[
             dataset_knn["test_index"] == test_index
         ].sort_values("neighbor_rank")
@@ -367,7 +366,7 @@ def analyze_dataset(
 
     result_df = pd.DataFrame(results)
 
-    # Summarize the result for datasetet.
+    # Summarize the result for datasetet
     summary_df = pd.DataFrame([{
         "dataset": dataset_name,
         "model": model_name.upper(),

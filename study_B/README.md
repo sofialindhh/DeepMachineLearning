@@ -10,19 +10,11 @@ The project evaluates model performance on multiple datasets and investigates ho
 
 ## 1. Prerequisites
 
-Before getting started, make sure you have installed:
-
 - Python 3.11 (recommended, subject to package compatibility)
 - Git
 - pip, the Python package installer
 
-You can check your installations with:
 
-```bash
-python3 --version
-git --version
-python3 -m pip --version
-```
 
 ## 2. Clone the repository
 
@@ -33,7 +25,6 @@ git clone https://github.com/sofialindhh/DeepMachineLearning.git
 cd DeepMachineLearning
 ```
 
-If you already have the repository locally, navigate to its directory instead.
 
 ## 3. Create a virtual environment
 
